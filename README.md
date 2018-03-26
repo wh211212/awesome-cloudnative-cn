@@ -15,51 +15,54 @@
 
 ## 构成 
 
-- [云](#Cloud)
-- [Provisioning](#Provisioning)
-- [Runtime](#Runtime)
-- [Orchestration & Management](#Orchestration&Management)
-- [Application Definition & Development](#Application-Definition-Development)
-- [平台](#Platform)
-- [Serverless](#Serverless)
-- [Observability & Analysis](#Observability&Analysis)
+- [云](#云)
+- [供应](#供应)
+- [运行](#运行)
+- [编排和管理](#编排和管理)
+- [应用程序定义和开发](#应用程序定义和开发)
+- [平台](#平台)
+- [无服务器](#无服务器)
+- [可观测性和分析](#可观测性和分析)
 
-## Cloud
+## 云
 
-- [Public](https://www.redhat.com/en/topics/cloud-computing/what-is-public-cloud) - A public cloud is a pool of virtual resources—developed from hardware owned and managed by a third-party company—that is automatically provisioned and allocated among multiple clients through a self-service interface.
-	- [Alibaba Cloud](https://www.alibabacloud.com/) - Alibaba Cloud develops highly scalable cloud computing and data management services.
-	- [Amazon Web Services](https://aws.amazon.com) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
-	- [Azure Cloud](https://azure.microsoft.com) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
-	- [Baidu Cloud](https://cloud.baidu.com/) - Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.
-	- [DigitalOcean](https://www.digitalocean.com/) - DigitalOcean is an IaaS company that delivers a seamless way for developers and businesses to deploy and scale any application in the cloud.
-	- [Fujitsu K5](https://www.fujitsu.com/global/solutions/cloud/k5/) - Fujitsu provides information technology and communications solutions.
-	- [Google Cloud](https://cloud.google.com) - Google is a multinational corporation that is specialized in internet-related services and products.
-	- [Huawei Cloud](https://www.huaweicloud.com/) - Huawei Technologies provides infrastructure application software and devices with wireline, wireless, and IP technologies.
-	- [IBM Cloud](https://www.ibm.com/cloud/) - IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
-	- [Oracle Cloud](https://cloud.oracle.com) - Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.
-	- [Joyent Cloud](https://www.joyent.com/) - Your Cloud, Your Way
-	- [Packet Cloud](https://www.packet.net/) - Packet is a bare metal cloud built for developers. 8 minute deploys, no hypervisor, & full automation support from 15 global data centers.
-	- [Tencent Cloud](https://cloud.tencent.com) - Tencent is a Chinese internet service portal offering value-added internet, mobile, telecom, and online advertising services.
-	- [Citrix Cloud](https://citrix.cloud.com/) - Move Faster, Work Better, Lower IT Costs
+- [公有云](https://www.redhat.com/en/topics/cloud-computing/what-is-public-cloud) - 公有云是指第三方提供商通过公共 Internet 提供的计算服务，面向希望使用或购买的任何人。
 
-- [Private](https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/) - The private cloud is defined as computing services offered either over the Internet or a private internal network and only to select users instead of the general public. Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud - including self-service, scalability, and elasticity - with the additional control and customization available from dedicated resources over a computing infrastructure hosted on-premises.
-	- [Openstack](https://www.openstack.org/) - Repository containing OpenStack repositories
-	- [Scaleway](https://www.scaleway.com/) - Scaleway is the world's first Cloud Computing IaaS platform
-	- [Foreman](https://www.theforeman.org/) - an application that automates the lifecycle of servers
-	- [Digital Bebar](http://rebar.digital/) - Digital Rebar Provision is a simple but powerful Golang executable that provides a complete API-driven DHCP/PXE/TFTP provisioning system.
-	- [MAAS](https://maas.io/) - Official MAAS repository mirror. (Do not submit pull requests or bugs here; use Launchpad instead.)
-	- [VMware](VMware) - VMware is a software company providing cloud and virtualization services.
+	- [阿里云](https://www.alibabacloud.com/) - 阿里云开发高度可扩展的云计算和数据管理服务。
+	- [AWS](https://aws.amazon.com) - 亚马逊网络服务以网络服务的形式向企业提供信息技术基础设施服务。
+	- [Azure云](https://azure.microsoft.com) -Microsoft是一家开发，制造，许可，支持和销售一系列软件产品和服务的软件公司。
+	- [百度云](https://cloud.baidu.com/) - 百度是一个中文网站和搜索引擎，可以让个人获得信息并找到他们需要的信息。
+	- [DigitalOcean](https://www.digitalocean.com/) - DigitalOcean是一家IaaS公司，为开发人员和企业提供了一种无缝的方式来部署和扩展云中的任何应用程序。
+	- [Fujitsu K5](https://www.fujitsu.com/global/solutions/cloud/k5/) - 富士通提供信息技术和通信解决方案。
+	- [谷歌云](https://cloud.google.com) - Google是一家跨国公司，专门从事与互联网有关的服务和产品。
+	- [华为云](https://www.huaweicloud.com/) - 华为技术有限公司为基础设施应用软件和设备提供有线，无线和IP技术。
+	- [IBM云](https://www.ibm.com/cloud/) - IBM是一家IT技术和咨询公司，提供计算机硬件，软件，基础设施和托管服务。
+	- [Oracle云](https://cloud.oracle.com) - Oracle是一家计算机技术公司，开发和销售计算机硬件系统和企业软件产品。
+	- [Joyent Cloud](https://www.joyent.com/) - 下一代云
+	- [Packet Cloud](https://www.packet.net/) - Packet是为开发人员构建的裸机云。 8分钟部署，无管理程序和全球15个数据中心的全面自动化支持。
+	- [腾讯云](https://cloud.tencent.com) - 腾讯是一家中国互联网服务门户，提供增值互联网，移动，电信和在线广告服务。
+	- [思杰云](https://citrix.cloud.com/) - 移动更快，工作更好，降低IT成本。
+
+- [私有云](https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/) - 私有云被定义为通过互联网或私人内部网络提供的计算服务，仅用于选择用户而不是普通大众。 也称为内部云或企业云，私有云计算为企业带来了公共云带来的诸多好处 - 包括自助服务，可扩展性和弹性 - 并通过托管在本地的计算基础架构上的专用资源提供额外的控制和定制。
+
+	- [Openstack](https://www.openstack.org/) - OpenStack是一个开源的云计算管理平台项目，OpenStack是一个旨在为公共及私有云的建设与管理提供软件的开源项目。
+	- [Scaleway](https://www.scaleway.com/) - Scaleway是全球首个云计算IaaS平台。
+	- [Foreman](https://www.theforeman.org/) - 一个自动化服务器生命周期的应用程序。
+	- [Digital Bebar](http://rebar.digital/) - Digital Rebar Provision是一个简单但功能强大的Golang可执行文件，可提供完整的API驱动的DHCP / PXE / TFTP配置系统。
+	- [MAAS](https://maas.io/) - 官方MAAS存储库镜像。 
+	- [VMware](https://cloud.vmware.com) - VMware是一家提供云和虚拟化服务的软件公司。
 	
-- [Hybrid](https://azure.microsoft.com/en-us/overview/what-is-hybrid-cloud-computing/) - A hybrid cloud is a computing environment that combines a public cloud and a private cloud by allowing data and applications to be shared between them.
-	- [Ensono](https://www.ensono.com) - Complete hybrid IT services – from cloud to mainframe. Operate for today. Optimize for tomorrow.
-	- [Dellemc](https://www.dellemc.com/) - Dell EMC is a powerful part of Dell Technologies' commitment to your transformation
-	- [Hpe](https://www.hpe.com/us/en/solutions/cloud.html) - Hybrid Cloud Solutions
-	- [Scalr](https://www.scalr.com/) - The Hybrid Cloud Management Platform
-	- [IBM Z hybrid cloud](https://www.ibm.com/it-infrastructure/z/capabilities/hybrid-cloud)	
-	- [Rackspace Hybrid Cloud](https://www.rackspace.com/cloud/hybrid)	
-	- [Microsoft Hybrid Cloud](https://azure.microsoft.com/en-us/overview/hybrid-cloud/)	
-	- [VMware Hybrid Cloud](https://cloud.vmware.com/)	
-	- [AWS Hybrid Cloud](https://aws.amazon.com/cn/enterprise/hybrid/)						
+- [混合云](https://azure.microsoft.com/en-us/overview/what-is-hybrid-cloud-computing/) - 混合云是一种将公共云和私有云相结合的计算环境，允许数据和应用程序在它们之间共享。
+
+	- [Ensono](https://www.ensono.com) - 完成混合IT服务 - 从云到大型机。 今天操作、 为明天优化。
+	- [Dellemc](https://www.dellemc.com/) - 戴尔EMC是戴尔技术致力于转型的重要组成部分。
+	- [Hpe](https://www.hpe.com/us/en/solutions/cloud.html) - 混合云解决方案。
+	- [Scalr](https://www.scalr.com/) - 混合云管理平台。
+	- [IBM Z hybrid cloud](https://www.ibm.com/it-infrastructure/z/capabilities/hybrid-cloud)	 - IBM混合云
+	- [Rackspace Hybrid Cloud](https://www.rackspace.com/cloud/hybrid) - Rackspace混合云	
+	- [Microsoft Hybrid Cloud](https://azure.microsoft.com/en-us/overview/hybrid-cloud/) - 微软混合云
+	- [VMware Hybrid Cloud](https://cloud.vmware.com/) - VMware混合云
+	- [AWS Hybrid Cloud](https://aws.amazon.com/cn/enterprise/hybrid/)	- AWS混合云					
 
 ## Provisioning
 
