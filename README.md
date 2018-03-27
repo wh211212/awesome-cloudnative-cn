@@ -132,89 +132,89 @@
 
 ## Runtime
 
-- Cloud-Native Network
-  > Network Segmentation and Policy,SDN & APIs (eg CNI, libnetwork)
+- 云原生网络
+  > 网络分段和策略，SDN和API（例如CNI，libnetwork）
   
-  Incubating CNCF Projects
-  - [CNI](https://github.com/containernetworking) - Container Network Interface - networking for Linux containers
+  CNCF孵化项目
+  - [CNI](https://github.com/containernetworking) - 容器网络接口 - 用于Linux容器的网络。
   
-  CNCF Member Products/Projects
-  - [Aporeto](https://www.aporeto.com/) - Cloud Native Security for Containers and Microservices
-  - [Cannl](https://github.com/projectcalico/canal) - Policy based networking for cloud native applications
-  - [Contiv](https://contiv.github.io/) - Container networking for various use cases
-  - [Flannel](https://github.com/coreos/flannel/) - flannel is a network fabric for containers, designed for Kubernetes
-  - [NSX](https://www.vmware.com/products/nsx.html) - VMware is a software company providing cloud and virtualization services.
-  - [Open vSwitch](https://openvswitch.org/) - Open vSwitch is a multilayer software switch licensed under the open source Apache 2 license.
-  - [OpenContrial](http://www.opencontrail.org/) - An open-source network virtualization platform for the cloud.
-  - [Project Calico](https://www.projectcalico.org/) - Cloud native application connectivity and network policy 
-  - [Weave Net](https://www.weave.works/oss/net/) - Simple, resilient multi-host Docker networking and more.
+  CNCF会员产品/项目
+  - [Aporeto](https://www.aporeto.com/) - 面向容器和微服务的云本地安全。
+  - [Cannl](https://github.com/projectcalico/canal) - 云原生应用程序的基于策略的网络。
+  - [Contiv](https://contiv.github.io/) - 适用于各种用例的容器网络。
+  - [Flannel](https://github.com/coreos/flannel/) - flannel是用于容器的网络fabric，专为Kubernetes设计。
+  - [NSX](https://www.vmware.com/products/nsx.html) - VMware是一家提供云和虚拟化服务的软件公司。
+  - [Open vSwitch](https://openvswitch.org/) - Open vSwitch是一种多层软件开关，以开源Apache 2许可证授权。
+  - [OpenContrial](http://www.opencontrail.org/) - 云的开源网络虚拟化平台。
+  - [Project Calico](https://www.projectcalico.org/) - 云本地应用程序连接和网络策略。
+  - [Weave Net](https://www.weave.works/oss/net/) - 简单，灵活的多主机Docker网络等等。
   
-  Non-CNCF Member Products/Projects
-  - [Aviatrix](https://aviatrix.com/) - The company develops software that enables enterprises to build hybrid clouds by easily
-  - [Big Switch Networks](https://www.bigswitch.com/) - Big Switch Networks is the Next-Generation Data Center Networking Company, designing intelligent, agile and flexible networks 
-  - [Cilium](https://www.cilium.io/) - HTTP, gRPC, and Kafka Aware Security and Networking for Containers with BPF and XDP
-  - [Cumulus](https://cumulusnetworks.com/) - Cumulus Networks, a software company, designs, and sells Linux operating systems for networking hardware.
-  - [GuardiCoreCentra](https://www.guardicore.com/workloads-protection-hybrid-clouds/) - GuardiCore provides network security solutions for software defined data centers.
-  - [MidoNet](https://www.midonet.org/) - MidoNet is an Open Source network virtualization system for Openstack clouds
-  - [Nuage Networks](http://www.nuagenetworks.net/) - Nuage Networks Fundamentals: Software Defined Networking for the Datacenter and Beyond.
-  - [Plumgrid](https://www.vmware.com/products/nsx.html) - PLUMgrid is involved in virtual networking and SDN/NFV to deliver cloud infrastructure solutions that transform businesses. 
-  - [Romana](http://romana.io/) - The Romana Project - Installation scripts, documentation, issue tracker and wiki. Start here.
-  - [SnapRoute](https://snaproute.com/) - SnapRoute is an open networking stack company.   
+  非CNCF会员产品/项目
+  - [Aviatrix](https://aviatrix.com/) - 该公司开发可帮助企业轻松构建混合云的软件。
+  - [Big Switch Networks](https://www.bigswitch.com/) - Big Switch Networks是下一代数据中心网络公司，设计智能，灵活和灵活的网络。
+  - [Cilium](https://www.cilium.io/) - 使用BPF和XDP的HTTP，gRPC和Kafka Aware安全和网络容器。
+  - [Cumulus](https://cumulusnetworks.com/) - Cumulus Networks是一家软件公司，负责设计和销售用于网络硬件的Linux操作系统。
+  - [GuardiCoreCentra](https://www.guardicore.com/workloads-protection-hybrid-clouds/) -GuardiCore为软件定义的数据中心提供网络安全解决方案。
+  - [MidoNet](https://www.midonet.org/) - MidoNet是Openstack云的开源网络虚拟化系统。
+  - [Nuage Networks](http://www.nuagenetworks.net/) - Nuage Networks基础：数据中心及其以外的软件定义网络。
+  - [Plumgrid](https://www.vmware.com/products/nsx.html) - PLUMgrid参与虚拟网络和SDN / NFV，提供可转变业务的云基础设施解决方案。
+  - [Romana](http://romana.io/) - Romana项目 - 安装脚本，文档，问题跟踪器和wiki。
+  - [SnapRoute](https://snaproute.com/) - SnapRoute是一家开放的网络堆栈公司。
     
-- Cloud-Native Storage
-  > Volume Drivers/Plugins,Local Storage Management,Remote Storage Access
+- 云原生存储
+  > 卷驱动程序/插件，本地存储管理，远程存储访问
   
-  Sandbox CNCF Projects
-  - [Rook](https://rook.io/) - File, Block, and Object Storage Services for your Cloud-Native Environments
+  Sandbox CNCF项目
+  - [Rook](https://rook.io/) - 您的云本地环境的文件，块和对象存储服务。
   
-  CNCF Member Products/Projects 
-  - [Ceph](https://ceph.com/) - Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.
-  - [Container Storage Interface](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
-  - [Dell EMC](https://www.dellemc.com) - IT and Workforce Transformation. Made real every day.
-  - [Diamanti](https://diamanti.com/) - Diamanti is the first container platform with plug and play network and persistent storage that seamlessly integrates the most widely adopted software stack - standard open source Kubernetes and Docker - so there is no vendor lock-in. QoS on network and storage maximizes container density. 
-  - [Gluster](https://www.gluster.org/) - Gluster is free and open source softeare scalable network filesystem.
-  - [Hatchway](https://vmware.github.io/hatchway/) - Persistent Storage for Cloud Native Applications
-  - [Kasten](https://kasten.io/) - Kasten is on a mission to dramatically simplify operational management of stateful cloud-native applications.
-  - [Manta](https://github.com/Illumina/manta) - Structural variant and indel caller for mapped sequencing data
-  - [Minio](https://minio.io/) - Minio is a high performance distributed object storage server, designed for large-scale private cloud infrastructure. Minio is widely deployed across the world with over 64.2M+ docker pulls.
-  - [NetApp](https://www.netapp.com) - NetApp HCI. All New and Available Now.
-  - [OpenEBS](https://www.openebs.io) - OpenEBS is an open source storage platform that provides persistent and containerized block storage for DevOps and container environments.
-  - [Portworx](https://portworx.com/) - The Solution for Stateful Containers in Production. Designed for DevOps.
-  - [Rex-Ray](https://rexray.readthedocs.io) - REX-Ray is an open source, storage management solution designed to support container runtimes such as Docker and Mesos.
-  - [StorageOS](https://storageos.com/) - Enterprise persistent storage for containers and the cloud.
+  CNCF会员产品/项目
+  - [Ceph](https://ceph.com/) - Ceph是一个统一的分布式存储系统，旨在实现出色的性能，可靠性和可扩展性。
+  - [Container Storage Interface](https://github.com/container-storage-interface/spec) - 容器存储接口（CSI）规范。
+  - [Dell EMC](https://www.dellemc.com) - IT和劳动力转型。 每天都变得真实。
+  - [Diamanti](https://diamanti.com/) - Diamanti是第一个具有即插即用网络和持久存储的集装箱平台，可无缝集成最广泛采用的软件堆栈 - 标准开源Kubernetes和Docker - 因此不存在供应商锁定。 网络和存储上的QoS最大化了容器密度。
+  - [Gluster](https://www.gluster.org/) - Gluster是免费的开源软件可扩展网络文件系统。
+  - [Hatchway](https://vmware.github.io/hatchway/) - 云本地应用程序的永久存储。
+  - [Kasten](https://kasten.io/) - Kasten的任务是大幅度简化有状态云本地应用程序的运营管理。
+  - [Manta](https://github.com/Illumina/manta) - 映射测序数据的结构变体和indeller。
+  - [Minio](https://minio.io/) - Minio是一款高性能的分布式对象存储服务器，专为大型私有云基础架构而设计。 Minio在全球范围内广泛部署，拥有超过64.2M +的码头牵引。
+  - [NetApp](https://www.netapp.com) - NetApp HCI。 全新并且现在可用。
+  - [OpenEBS](https://www.openebs.io) - OpenEBS是一个开源存储平台，为DevOps和容器环境提供持久和集装箱块存储。
+  - [Portworx](https://portworx.com/) - 生产状态容器的解决方案。 专为DevOps设计。
+  - [Rex-Ray](https://rexray.readthedocs.io) - REX-Ray是一款开源的存储管理解决方案，旨在支持Docker和Mesos等容器运行时。
+  - [StorageOS](https://storageos.com/) - 企业持久性存储容器和云。
   
-  Non-CNCF Member Products/Projects
-  - [Datera](https://datera.io/) - Datera is an application-driven data infrastructure company.
-  - [Hedving](https://www.hedviginc.com/) - Modern storage for the modern business.
-  - [Infinit](https://www.infinit.sh/) - The Elle coroutine-based asynchronous C++ development framework.
-  - [LeoFS](https://leo-project.net/leofs/) - The LeoFS Storage System
-  - [OpenIO](https://www.openio.io/) - OpenIO Software Defined Storage
-  - [Pure Storage](https://www.purestorage.com/) - Pure Storage is an all-flash enterprise storage company that enables broad deployment of flash in data centers.
-  - [Quobyte](https://www.quobyte.com/) - Data Center File System. Fast and Reliable Software Storage
-  - [Robin Systems](https://robinsystems.com/) - Data-Centric Compute and Storage Containerization Infrastructure Software
-  - [Sheepdog](https://sheepdog.github.io/sheepdog/) - Distributed Storage System for QEMU
-  - [Springpath](http://springpathinc.com/) - Springpath is hyperconvergence software that turns standard servers of choice into a single pool of compute and storage resources.
-  - [Swift](https://docs.openstack.org/swift/latest/) - OpenStack Storage (Swift)
+  非CNCF会员产品/项目
+  - [Datera](https://datera.io/) - Datera是一家应用程序驱动的数据基础架构公司。
+  - [Hedving](https://www.hedviginc.com/) - 现代化的商业存储。
+  - [Infinit](https://www.infinit.sh/) - 基于Elle coroutine的异步C ++开发框架。
+  - [LeoFS](https://leo-project.net/leofs/) - LeoFS存储系统
+  - [OpenIO](https://www.openio.io/) - OpenIO软件定义存储
+  - [Pure Storage](https://www.purestorage.com/) - Pure Storage是一家全闪存企业存储公司，能够在数据中心广泛部署闪存。
+  - [Quobyte](https://www.quobyte.com/) - 数据中心文件系统。 快速和可靠的软件存储
+  - [Robin Systems](https://robinsystems.com/) - 以数据为中心的计算和存储集装式基础设施软件
+  - [Sheepdog](https://sheepdog.github.io/sheepdog/) - QEMU的分布式存储系统
+  - [Springpath](http://springpathinc.com/) - Springpath是超融合软件，可将标准服务器选择为单一计算和存储资源池。
+  - [Swift](https://docs.openstack.org/swift/latest/) - OpenStack存储（Swift）
   
-- Container Runtime
-  > The new CF Container Runtime gives you more granular control and management of containers with Kubernetes.
-  
-  Incubating CNCF Projects 
+  集装箱运行时间
+  > 新的CF容器运行时为您提供更加细致的Kubernetes容器控制和管理。
+
+  CNCF孵化项目
   - [containerd](https://containerd.io/) 
-  - [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+  - [rkt](https://github.com/rkt/rkt) - rkt是一个适用于Linux的pod本机容器引擎。 它是可组合的，安全的，并建立在标准之上。
   
-  CNCF Member Products/Projects
-  - [CRI-O](http://cri-o.io/) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-  - [Intel Clear Containers](https://clearlinux.org/containers) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines
-  - [Ixd](https://linuxcontainers.org/lxd/) - Daemon based on liblxc offering a REST API to manage containers
-  - [Pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
-  - [runc](https://www.opencontainers.org/) - CLI tool for spawning and running containers according to the OCI specification
-  - [SmartOS](https://www.joyent.com/smartos) - Converged Container and Virtual Machine Hypervisor
-    
-  Non-CNCF Member Products/Projects  
-  - [Kata Containers](https://katacontainers.io/) - Kata Containers runtimes
-  - [RunV](https://github.com/hyperhq/runv) - Hypervisor-based Runtime for OCI
-  - [Singularity](https://www.sylabs.io/) - Singularity: Application containers for Linux       
+  CNCF会员产品/项目
+  - [CRI-O](http://cri-o.io/) - 基于容器计划的Kubernetes Container运行时接口的实现
+  - [Intel Clear Containers](https://clearlinux.org/containers) - 使用虚拟机的OCI（Open Containers Initiative）兼容运行时
+  - [Ixd](https://linuxcontainers.org/lxd/) - 基于liblxc的守护进程提供REST API来管理容器
+  - [Pouch](https://github.com/alibaba/pouch) - Pouch是一个开源项目，旨在促进容器技术的运动。
+  - [runc](https://www.opencontainers.org/) - 根据OCI规范生成和运行容器的CLI工具
+  - [SmartOS](https://www.joyent.com/smartos) - 融合容器和虚拟机管理程序
+
+  非CNCF会员产品/项目
+  - [Kata Containers](https://katacontainers.io/) - Kata容器运行时间
+  - [RunV](https://github.com/hyperhq/runv) - OCI的基于虚拟机管理程序的运行时
+  - [Singularity](https://www.sylabs.io/) - 奇点：适用于Linux的应用程序容器   
   
 ## Orchestration & Management
 
