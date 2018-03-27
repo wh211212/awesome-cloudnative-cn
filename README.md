@@ -38,8 +38,8 @@
 	- [华为云](https://www.huaweicloud.com/) - 华为技术有限公司为基础设施应用软件和设备提供有线，无线和IP技术。
 	- [IBM云](https://www.ibm.com/cloud/) - IBM是一家IT技术和咨询公司，提供计算机硬件，软件，基础设施和托管服务。
 	- [Oracle云](https://cloud.oracle.com) - Oracle是一家计算机技术公司，开发和销售计算机硬件系统和企业软件产品。
-	- [Joyent Cloud](https://www.joyent.com/) - 下一代云
-	- [Packet Cloud](https://www.packet.net/) - Packet是为开发人员构建的裸机云。 8分钟部署，无管理程序和全球15个数据中心的全面自动化支持。
+	- [Joyent 云](https://www.joyent.com/) - 下一代云
+	- [Packet 云](https://www.packet.net/) - Packet是为开发人员构建的裸机云。 8分钟部署，无管理程序和全球15个数据中心的全面自动化支持。
 	- [腾讯云](https://cloud.tencent.com) - 腾讯是一家中国互联网服务门户，提供增值互联网，移动，电信和在线广告服务。
 	- [思杰云](https://citrix.cloud.com/) - 移动更快，工作更好，降低IT成本。
 
@@ -58,52 +58,56 @@
 	- [Dellemc](https://www.dellemc.com/) - 戴尔EMC是戴尔技术致力于转型的重要组成部分。
 	- [Hpe](https://www.hpe.com/us/en/solutions/cloud.html) - 混合云解决方案。
 	- [Scalr](https://www.scalr.com/) - 混合云管理平台。
-	- [IBM Z hybrid cloud](https://www.ibm.com/it-infrastructure/z/capabilities/hybrid-cloud)	 - IBM混合云
-	- [Rackspace Hybrid Cloud](https://www.rackspace.com/cloud/hybrid) - Rackspace混合云	
-	- [Microsoft Hybrid Cloud](https://azure.microsoft.com/en-us/overview/hybrid-cloud/) - 微软混合云
-	- [VMware Hybrid Cloud](https://cloud.vmware.com/) - VMware混合云
-	- [AWS Hybrid Cloud](https://aws.amazon.com/cn/enterprise/hybrid/)	- AWS混合云					
+	- [IBM混合云](https://www.ibm.com/it-infrastructure/z/capabilities/hybrid-cloud)	 - IBM混合云
+	- [Rackspace混合云](https://www.rackspace.com/cloud/hybrid) - Rackspace混合云	
+	- [Microsoft混合云](https://azure.microsoft.com/en-us/overview/hybrid-cloud/) - 微软混合云
+	- [VMware混合云](https://cloud.vmware.com/) - VMware混合云
+	- [AWS混合云](https://aws.amazon.com/cn/enterprise/hybrid/)	- AWS混合云					
 
-## Provisioning
+## 供应
 
-- Container Registries
-  > Container Registry is a private Docker repository that works with popular continuous delivery systems.
-	- [ECR](https://aws.amazon.com/cn/ecr/) - Amazon Elastic Container Registry (ECR) is a secure, fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images.
-	- [Azure Registry](https://azure.microsoft.com/en-us/services/container-registry/) - Manage a Docker private registry as a first-class Azure resource.
-	- [Codefresh Registry](https://codefresh.io/registry-beta/) - Codefresh is a Docker-native CI/CD platform.Instantly build, test and deploy Docker images.
-	- [Docker Registry](https://docs.docker.com/registry/) - Docker Trusted Registry (DTR) is a commercial product that enables complete image management workflow, featuring LDAP integration, image signing, security scanning, and integration with Universal Control Plane. DTR is offered as an add-on to Docker Enterprise subscriptions of Standard or higher.
-	- [Google Container Registry](https://cloud.google.com/container-registry/) - High-speed, private Docker image storage on Google Cloud Platform
-	- [Harbor](http://vmware.github.io/harbor/) - An Enterprise-class Container Registry Server based on Docker Distribution.
-	- [JFrog Artifactory](https://jfrog.com/artifactory/) - Enterprise Universal Artifact Manager.
-	- [Portus](http://port.us.org/) - Portus is an open source authorization service and user interface for the next generation Docker Registry.
-	- [Project Atomic](https://www.projectatomic.io/) - Atomic Host provides immutable infrastructure for deploying to hundreds or thousands of servers in your private or public cloud. 
-	- [QUAY Enterprise](https://coreos.com/quay-enterprise/) - One container registry for your entire enterprise. 
+- 容器私服
+  > 容器注册表是一个私人Docker存储库，可与流行的持续交付系统一起使用。
+
+	- [ECR](https://aws.amazon.com/cn/ecr/) - Amazon Elastic Container Registry（ECR）是一个安全的完全托管的Docker容器注册表，使开发人员可以轻松存储，管理和部署Docker容器映像。
+	- [Azure Registry](https://azure.microsoft.com/en-us/services/container-registry/) - 作为一流的Azure资源管理Docker私有注册表。
+	- [Codefresh Registry](https://codefresh.io/registry-beta/) - Codefresh是一个Docker本地CI / CD平台。不断构建，测试和部署Docker镜像。
+	- [Docker Registry](https://docs.docker.com/registry/) - Docker Trusted Registry（DTR）是一款商业产品，支持完整的图像管理工作流程，包括LDAP集成，图像签名，安全扫描以及与通用控制平面的集成。 DTR作为标准版或更高版本的Docker Enterprise订阅的附件提供。
+	- [Google Container Registry](https://cloud.google.com/container-registry/) - Google云端平台上的高速私人Docker图像存储。
+	- [Harbor](http://vmware.github.io/harbor/) - 基于Docker发行版的企业级容器注册服务器。
+	- [JFrog Artifactory](https://jfrog.com/artifactory/) - 企业通用工件管理器。
+	- [Portus](http://port.us.org/) - Portus是下一代Docker Registry的开源授权服务和用户界面。
+	- [Project Atomic](https://www.projectatomic.io/) - 原子主机提供不可变的基础架构，用于部署到私有云或公共云中的数百或数千台服务器。
+	- [QUAY Enterprise](https://coreos.com/quay-enterprise/) - 企业级容器注册表。
   
-- Host Management & Tooling
-  > Host management tool
-	- [Ansible](https://www.ansible.com/) - Ansible is designed around the way people work and the way people work together.
-	- [Chef](https://www.chef.io) - Ship better software, faster.Enable collaboration and continuous automation across your infrastructure, applications, and compliance for all your apps and infrastructure. 
-	- [LniuxKit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-	- [CFEngine](https://cfengine.com/) - CFEngine Community
-	- [Puppet](https://puppet.com/) - Server automation framework and application
-	- [Rundeck](https://www.rundeck.com/) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
-	- [Saltstack](https://saltstack.com/) - Intelligent automation for a software-defined world
+- 主机管理和工具集
+  > 主机管理工具
 
-- Infrastructure Automation
-  > Infrastructure automation makes servers and VM management more flexible, efficient, and scalable by converting management tasks and policy into code.
-	- [AWS CloudFormation](https://aws.amazon.com/cn/cloudformation/)
-	- [HOSH](https://bosh.io) - BOSH is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.
-	- [Helm](https://helm.sh/) - Helm is the best way to find, share, and use software built for Kubernetes.
-	- [Infrakit](https://github.com/docker/infrakit) - A toolkit for creating and managing declarative, self-healing infrastructure.
-	- [Juju](https://jujucharms.com/) - Juju is an open source application modelling tool. Deploy, configure, scale and operate your software on public and private clouds.
-	- [Cloud Coreo](https://www.cloudcoreo.com/) - A Platform for Modern Cloud Teams
-	- [Cloudify](https://cloudify.co/) - Radically Simplifying Multi-Cloud Orchestration
-	- [Kubicorn](http://kubicorn.io/) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
-	- [ManageIQ](http://manageiq.org/) - Discover, Optimize, and Control your Hybrid IT
-	- [Terraform](https://www.terraform.io/) - Write, Plan, and Create Infrastructure as Code
-  
-- [Key Management](https://en.wikipedia.org/wiki/Key_management)
-  > Key management is the name of management of cryptographic keys in a cryptosystem.
+	- [Ansible](https://www.ansible.com/) - Ansible的设计围绕着人们的工作方式和人们一起工作的方式。
+	- [Chef](https://www.chef.io) - 发布更好的软件，速度更快。在您的所有应用程序和基础架构的基础架构，应用程序和合规性中启用协作和持续自动化。
+	- [LniuxKit](https://github.com/linuxkit/linuxkit) - 用于为容器构建安全，便携和精益操作系统的工具包。
+	- [CFEngine](https://cfengine.com/) - CFEngine社区。
+	- [Puppet](https://puppet.com/) - 服务器自动化框架和应用
+	- [Rundeck](https://www.rundeck.com/) - 启用自助服务操作：为特定用户提供对现有工具，服务和脚本的访问权限。
+	- [Saltstack](https://saltstack.com/) - 针对软件定义世界的智能自动化。
+
+- 基础设施自动化
+  > 通过将管理任务和策略转换为代码，基础架构自动化使得服务器和虚拟机管理更加灵活，高效且可扩展。
+
+	- [AWS CloudFormation](https://aws.amazon.com/cn/cloudformation/) - 为您的所有云基础设施资源建模并对其进行预配置。
+	- [HOSH](https://bosh.io) - BOSH是用于发布工程，部署，生命周期管理和分布式系统监控的开源工具。
+	- [Helm](https://helm.sh/) - Helm是查找，共享和使用为Kubernetes构建的软件的最佳方式。
+	- [Infrakit](https://github.com/docker/infrakit) - 用于创建和管理声明式自我修复基础架构的工具包。
+	- [Juju](https://jujucharms.com/) - Juju是一款开源应用程序建模工具。 在公共云和私有云上部署，配置，扩展和操作软件。
+	- [Cloud Coreo](https://www.cloudcoreo.com/) - 现代云团队的平台。
+	- [Cloudify](https://cloudify.co/) - 从根本上简化多云协调
+	- [Kubicorn](http://kubicorn.io/) - 在公有云中创建，管理，快照和扩展Kubernetes基础设施。
+	- [ManageIQ](http://manageiq.org/) - 发现，优化和控制混合IT。
+	- [Terraform](https://www.terraform.io/) - 编写，规划和创建基础架构作为代码。
+
+- [密钥管理](https://en.wikipedia.org/wiki/Key_management)
+  > 密钥管理是密码系统中密码密钥管理的名称。
+
 	- [Knox](https://knox.apache.org/) - The Apache Knox™ Gateway is an Application Gateway for interacting with the REST APIs and UIs of Apache Hadoop deployments.The Knox Gateway provides a single access point for all REST and HTTP interactions with Apache Hadoop clusters.
 	- [Oracle Policy Automation](https://www.oracle.com/applications/oracle-policy-automation/index.html) - Oracle Policy Automation is an end-to-end solution for capturing, managing, and deploying complex legislation and other document-based policies across channels and processes.
 	- [Keywhiz](https://square.github.io/keywhiz/) - A system for distributing and managing secrets
