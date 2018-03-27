@@ -216,12 +216,12 @@
   - [RunV](https://github.com/hyperhq/runv) - OCI的基于虚拟机管理程序的运行时
   - [Singularity](https://www.sylabs.io/) - 奇点：适用于Linux的应用程序容器   
   
-## Orchestration & Management
+## 编配和管理
 
-- Scheduling & Orchestration
+- 定时和编排
 
-  Graduated CNCF Projects
-  - [Kubernetes](https://kubernetes.io/) - Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications
+  CNCF毕业项目
+  - [Kubernetes](https://kubernetes.io/) - Kubernetes是一个开源系统，用于自动化容器化应用程序的部署，扩展和管理。
   
   CNCF Member Products/Projects
   - [ECS](https://aws.amazon.com/ecs/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
