@@ -326,42 +326,42 @@
 - 流
 
   Incubating CNCF Projects
-  - [NATS](https://nats.io/) - High-Performance server for NATS, the cloud native messaging system.
+  - [NATS](https://nats.io/) - 用于NATS的高性能服务器，云本地消息传递系统。
 
   CNCF Member Products/Projects
-  - [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
-  - [CloudEvents](https://openevents.io/) - CloudEvents Specification
-  - [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - Google is a multinational corporation that is specialized in internet-related services and products.
-  - [Heron](https://twitter.github.io/heron/) - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter
+  - [Amazon Kinesis](https://aws.amazon.com/kinesis/) - 亚马逊网络服务以网络服务的形式向企业提供信息技术基础设施服务。
+  - [CloudEvents](https://openevents.io/) - CloudEvents规范。
+  - [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - 简化了流式数据处理和批量数据处理，同时保持相当的可靠性和表现力.
+  - [Heron](https://twitter.github.io/heron/) - Heron是来自Twitter的实时分布式容错流处理引擎
   
   Non-CNCF Member Products/Projects  
-  - [Apache Apex](https://apex.apache.org/) - Mirror of Apache Apex core
-  - [Apache NiFi](https://nifi.apache.org/) - Mirror of Apache NiFi
-  - [Apache RocketMQ](https://rocketmq.apache.org/) - Mirror of Apache RocketMQ
-  - [Apache Spark](https://spark.apache.org/) - Mirror of Apache Spark
-  - [Apache Storm](https://storm.apache.org/) - Mirror of Apache Storm
-  - [Flink](https://flink.apache.org/) - Mirror of Apache Flink	  
-  - [Kafka](https://kafka.apache.org/) - Mirror of Apache Kafka
-  - [Pulsar](https://pulsar.apache.org/) - Pulsar - distributed pub-sub messaging system
-  - [RabbitMQ](https://www.rabbitmq.com/) - RabbitMQ is the most widely deployed open source message broker.
-  - [StreamSets](https://streamsets.com/) - StreamSets DataCollector - Continuous big data ingest infrastructure. 	   
+  - [Apache Apex](https://apex.apache.org/) - Apache Apex核心的镜像
+  - [Apache NiFi](https://nifi.apache.org/) - Apache NiFi的镜像
+  - [Apache RocketMQ](https://rocketmq.apache.org/) - Apache RocketMQ的镜像
+  - [Apache Spark](https://spark.apache.org/) - Apache Spark的镜像
+  - [Apache Storm](https://storm.apache.org/) - Apache Storm的镜像
+  - [Flink](https://flink.apache.org/) - Apache Flink的镜像 
+  - [Kafka](https://kafka.apache.org/) - Apache Kafka的镜像
+  - [Pulsar](https://pulsar.apache.org/) - Pulsar - 分布式pub-sub消息系统
+  - [RabbitMQ](https://www.rabbitmq.com/) - RabbitMQ是部署最广泛的开源消息代理。
+  - [StreamSets](https://streamsets.com/) - StreamSets DataCollector - 持续大数据摄取基础架构。   
                   
 - 源代码管理
 
-  - [GitHub](https://github.com/) - GitHub is a web-based Git repository hosting service offering distributed revision control and source code management functionality of Git.
-  - [GitLab](https://gitlab.com/) - GitLab CE | Please open new issues in our issue tracker on GitLab.com
-  - [Visual Studio Team Services](https://www.visualstudio.com/team-services/) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
-  - [Bitbucket](https://bitbucket.org/) - Atlassian provides collaboration software for teams with products including JIRA, Confluence, HipChat, Bitbucket, and Stash.
+  - [GitHub](https://github.com/) - GitHub是一个基于Web的Git仓库托管服务，提供Git的分布式修订控制和源代码管理功能。
+  - [GitLab](https://gitlab.com/) - 一个完整的DevOps生命周期应用程序。
+  - [Visual Studio Team Services](https://www.visualstudio.com/team-services/) - Microsoft是一家开发，制造，许可，支持和销售一系列软件产品和服务的软件公司。
+  - [Bitbucket](https://bitbucket.org/) - 分布式版本控制系统使您可以轻松与团队协作。大规模扩展的唯一协作Git解决方案。
 	                  
 - 应用程序定义
-  - [Bitnami](https://bitnami.com/) - Loved by Devs, Trusted by Ops. Easy to use cloud images, containers, and VMs that work on any platform
-  - [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker
-  - [Habitat](https://www.habitat.sh/) - Modern applications with built-in automation
-  - [OpenAPI](https://www.openapis.org/) - The OpenAPI Specification Repository
-  - [Telepresence](https://www.telepresence.io/) - Local development against a remote Kubernetes or OpenShift cluster
+  - [Bitnami](https://bitnami.com/) - 受开发者喜爱，受行动信任。 易于使用的云图像，容器和可在任何平台上工作的虚拟机.
+  - [Docker Compose](https://docs.docker.com/compose/) - 使用Docker定义和运行多容器应用程序
+  - [Habitat](https://www.habitat.sh/) - 内置自动化的现代应用程序
+  - [OpenAPI](https://www.openapis.org/) - OpenAPI规范库
+  - [Telepresence](https://www.telepresence.io/) - 针对远程Kubernetes或OpenShift群集进行本地开发
   - [Apache Brooklyn](https://brooklyn.apache.org/) - Apache Brooklyn
-  - [KubeVirt](https://www.kubevirt.io/) - A virtualization API and runtime add-on for Kubernetes in order to define and manage virtual machines.
-  - [Packer](https://www.packer.io/) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  - [KubeVirt](https://www.kubevirt.io/) - Kubernetes的虚拟化API和运行时插件，用于定义和管理虚拟机。
+  - [Packer](https://www.packer.io/) - Packer是一款用于从单一源配置为多个平台创建相同机器映像的工具。
   
 - CI & CD
 
@@ -498,36 +498,36 @@
 ## 无服务器
 
 - 安全
-  - [PureSec](https://www.puresec.io/) - PureSec is the world's leading Serverless Security Runtime Environment
-  - [Snyk](https://snyk.io/) - Snyk is a security company helping to monitor app vulnerabilities.
+  - [PureSec](https://www.puresec.io/) - PureSec是全球领先的无服务器安全运行时环境。
+  - [Snyk](https://snyk.io/) - Snyk是一家安全公司，帮助监控应用程序漏洞。
   
 - 库函数
-  - [Python Lambda](https://aws.amazon.com/lambda/) - A toolkit for developing and deploying serverless Python code in AWS Lambda.
+  - [Python Lambda](https://aws.amazon.com/lambda/) - 在AWS Lambda中开发和部署无服务器Python代码的工具包。
 
 - 工具
-  - [Architect](https://arc.codes/) - 🔑 cloud function signatures for http handlers, pubsub, scheduled functions and table triggers
-  - [Dashbird](https://www.dashbird.io/) - AWS Lambda monitoring & debugging platform. Serverless observability & troubleshooting. Serverless monitoring.
-  - [IOpipe](https://www.iopipe.com/) - IOpipe provides a toolbox for developing, monitoring, and operating serverless applications.
-  - [Microcule](https://github.com/Stackvana) - SDK and CLI for spawning streaming stateless HTTP microservices in multiple programming languages
-  - [Node Lambda](https://github.com/motdotla/node-lambda) - Command line tool to locally run and deploy your node.js application to Amazon Lambda
-  - [Stackery](https://www.stackery.io/) - Run serverless in production with Stackery's serverless operations console.
-  - [Thundra](https://www.thundra.io/) - IT Alert and Notifications Management
+  - [Architect](https://arc.codes/) - 🔑 http处理程序的云功能签名，pubsub，预定功能和表触发器。
+  - [Dashbird](https://www.dashbird.io/) - AWS Lambda监控和调试平台。 无服务器可观察性和故障排除。 无服务器监控。
+  - [IOpipe](https://www.iopipe.com/) - IOpipe为开发，监视和操作无服务器应用程序提供了一个工具箱。
+  - [Microcule](https://github.com/Stackvana) - SDK和CLI，用于以多种编程语言产生流式无状态HTTP微服务.
+  - [Node Lambda](https://github.com/motdotla/node-lambda) - 用于本地运行并将您的node.js应用程序部署到Amazon Lambda的命令行工具.
+  - [Stackery](https://www.stackery.io/) - 使用Stackery的无服务器操作控制台在生产环境中运行无服务器。
+  - [Thundra](https://www.thundra.io/) - IT警报和通知管理
   
 - 框架
-  - [AWS Chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-  - [SAM Local](https://github.com/awslabs/serverless-application-model) - AWS Serverless Application Model (AWS SAM) prescribes rules for expressing Serverless applications on AWS.
-  - [Serverless](https://serverless.com/) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! 
-  - [Spring Cloud Function](https://cloud.spring.io/spring-cloud-function/) - Pivotal is a software company that provides digital transformation technology and services.
-  - [Apex](http://apex.run/) - Build, deploy, and manage AWS Lambda functions with ease (with Go support!).
-  - [Bustle Shep](https://www.bustle.com/labs) - A framework for building JavaScript Applications with AWS API Gateway and Lambda
-  - [ClaudisJS](https://claudiajs.com/) - Deploy Node.js projects to AWS Lambda and API Gateway easily
-  - [Dawson](https://github.com/dawson-org) - A serverless web framework for Node.js on AWS (CloudFormation, CloudFront, API Gateway, Lambda)
-  - [Flogo](http://flogo.io/) - Ultralight Edge Microservices Framework
-  - [Gordon](http://jorgebastida.com/) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation
+  - [AWS Chalice](https://github.com/aws/chalice) - 适用于AWS的Python无服务器微框架
+  - [SAM Local](https://github.com/awslabs/serverless-application-model) - AWS无服务器应用程序模型（AWS SAM）规定了在AWS上表达无服务器应用程序的规则。
+  - [Serverless](https://serverless.com/) - 无服务器框架 - 使用AWS Lambda，Azure功能，Google CloudFunctions等构建无服务器体系结构的Web，移动和IoT应用程序！
+  - [Spring Cloud Function](https://cloud.spring.io/spring-cloud-function/) - Pivotal是一家提供数字转换技术和服务的软件公司。
+  - [Apex](http://apex.run/) - 轻松构建，部署和管理AWS Lambda功能（使用Go支持！）。
+  - [Bustle Shep](https://www.bustle.com/labs) - 使用AWS API Gateway和Lambda构建JavaScript应用程序的框架.
+  - [ClaudisJS](https://claudiajs.com/) - 轻松地将Node.js项目部署到AWS Lambda和API Gateway
+  - [Dawson](https://github.com/dawson-org) - AWS上的Node.js的无服务器Web框架（CloudFormation，CloudFront，API网关，Lambda）
+  - [Flogo](http://flogo.io/) - Ultralight Edge微服务框架
+  - [Gordon](http://jorgebastida.com/) - λGordon是一种使用CloudFormation创建，连接和部署AWS Lambdas的工具
   - [GunIO Zappa](https://www.zappa.io/) - Serverless Python
-  - [KappaIO](https://github.com/garnaat/kappa) - What precedes Lambda 
-  - [Mitoc Group Deep](https://docs.deep.mg/) - Full-stack JavaScript Framework for Cloud-Native Web Applications (perfect for Serverless use cases)
-  - [Sparta](https://gosparta.io/) - A GO FRAMEWORK FOR AWS LAMBDA 
+  - [KappaIO](https://github.com/garnaat/kappa) - Lambda precedes 是什么
+  - [Mitoc Group Deep](https://docs.deep.mg/) - 用于云本地Web应用程序的全栈JavaScript框架（完美适用于无服务器用例）
+  - [Sparta](https://gosparta.io/) - AWS LAMBDA的GO框架
   
 - 平台
 
@@ -629,16 +629,16 @@
     
 - 日志记录
 
-  - [Fluentd](https://www.fluentd.org/) - Fluentd: Unified Logging Layer (project under CNCF)
-  - [Humio](https://www.humio.com/) - Log everything, answer anything
-  - [Splunk](https://www.splunk.com/) - Splunk provides operational intelligence software that monitors, reports, and analyzes real-time machine data.
-  - [Elastic](https://www.elastic.co/) - Open Source, Distributed, RESTful Search Engine.
-  - [Graylog](https://www.graylog.org/) - Free and open source log management
-  - [Loggly](https://www.loggly.com/) - Loggly parses your log files, shows you the code in GitHub which caused the log errors. 10,000+ customers, including 1/3 of the Fortune 500.
-  - [Logz](https://logz.io/) - Logz.io is an enterprise-grade ELK as a service with alerts, unlimited scalability, and predictive fault detection.
-  - [Loom Systems](https://www.loomsystems.com/) - Predict & Prevent Problems in the Digital Business
-  - [Sematext](https://sematext.com/) -  Sematext is a Search and Big Data analytics products and services company.
-  - [Sumo Logic](https://www.sumologic.com/) - Sumo Logic, a log management and analytics service, transforms big data into sources of operations, security and compliance intelligence.
+  - [Fluentd](https://www.fluentd.org/) - Fluentd：统一日志层（CNCF下的项目）
+  - [Humio](https://www.humio.com/) - 记录一切，回答任何事情
+  - [Splunk](https://www.splunk.com/) - Splunk提供运行情报软件，用于监控，报告和分析实时机器数据。
+  - [Elastic](https://www.elastic.co/) - 开源，分布式，RESTful搜索引擎。
+  - [Graylog](https://www.graylog.org/) -免费和开源的日志管理
+  - [Loggly](https://www.loggly.com/) - Loggly分析您的日志文件，向您显示导致日志错误的GitHub中的代码。 拥有10,000多个客户，其中包括财富500强中的三分之一。
+  - [Logz](https://logz.io/) - Logz.io是一款企业级ELK，具有警报，无限可扩展性和预测性故障检测功能。
+  - [Loom Systems](https://www.loomsystems.com/) - 预测和防止数字业务中的问题
+  - [Sematext](https://sematext.com/) - Sematext是一家搜索和大数据分析产品和服务公司。
+  - [Sumo Logic](https://www.sumologic.com/) - Sumo Logic是一种日志管理和分析服务，可将大数据转化为运营，安全和合规情报。
 
 - 追踪
 
@@ -649,12 +649,11 @@
   - [SkyWalking](http://skywalking.io/) - 分布式跟踪系统和APM（应用程序性能监视）
   - [Zipkin](https://zipkin.io/) - Zipkin是一个分布式追踪系统
  
-
 ## 贡献
 
 欢迎提交合并请求, 请参照 [contribution guidelines](Contributing.md).
 
-**[⬆ 回到顶部](#components)**
+**[⬆ 回到顶部](#构成)**
 
 ## 开源许可
 
