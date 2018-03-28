@@ -108,27 +108,28 @@
 - [密钥管理](https://en.wikipedia.org/wiki/Key_management)
   > 密钥管理是密码系统中密码密钥管理的名称。
 
-	- [Knox](https://knox.apache.org/) - The Apache Knox™ Gateway is an Application Gateway for interacting with the REST APIs and UIs of Apache Hadoop deployments.The Knox Gateway provides a single access point for all REST and HTTP interactions with Apache Hadoop clusters.
-	- [Oracle Policy Automation](https://www.oracle.com/applications/oracle-policy-automation/index.html) - Oracle Policy Automation is an end-to-end solution for capturing, managing, and deploying complex legislation and other document-based policies across channels and processes.
-	- [Keywhiz](https://square.github.io/keywhiz/) - A system for distributing and managing secrets
-	- [Lyft Confident](https://lyft.github.io/confidant/) - Confidant is a open source secret management service that provides user-friendly storage and access to secrets in a secure way, from the developers at Lyft.
-	- [SPIFFE](https://spiffe.io/) - SPIFFE (Secure Production Identity Framework For Everyone) provides a secure identity, in the form of a specially crafted x509 certificate, to every workload in a modern production environment. SPIFFE removes the need for application-level authentication and authorization and complex network-level ACL configuration.
-	- [Spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment.
-	- [Vault](https://www.vaultproject.io/) - A Tool for Managing Secrets. 
+	- [Knox](https://knox.apache.org/) - Apache Knox™Gateway是用于与Apache Hadoop部署的REST API和UI进行交互的应用程序网关。Knox Gateway为所有与Apache Hadoop集群的REST和HTTP交互提供单一接入点。
+	- [Oracle Policy Automation](https://www.oracle.com/applications/oracle-policy-automation/index.html) - Oracle Policy Automation是一个端到端的解决方案，用于捕获，管理和部署跨渠道和流程的复杂立法和其他基于文档的策略。
+	- [Keywhiz](https://square.github.io/keywhiz/) - 秘密分配和管理系统.
+	- [Lyft Confident](https://lyft.github.io/confidant/) - Confidant是一个开源的秘密管理服务，可以从Lyft的开发者那里以安全的方式提供用户友好的存储和访问秘密。
+	- [SPIFFE](https://spiffe.io/) - SPIFFE（适用于所有人的安全生产身份识别框架）为现代生产环境中的每个工作负载提供安全身份，采用特制的x509证书形式。 SPIFFE不需要应用程序级别的认证和授权以及复杂的网络级ACL配置。
+	- [Spire](https://github.com/spiffe/spire) - SPIFFE运行环境。
+	- [Vault](https://www.vaultproject.io/) - 管理秘密的工具。
 	  
 - [Secure Images](https://docs.imgix.com/setup/securing-images)
-  > Secure your images so that you maintain control of how they are displayed on the Internet.
-	- [Notary](https://github.com/theupdateframework/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
-	- [TUF](https://theupdateframework.github.io/) - A framework for securing software update systems
-	- [Aqua](https://www.aquasec.com/) - The Aqua Container Security Platform provides development-to-production lifecycle controls for securing containerized applications that run on-premises or in the cloud, on Windows or Linux, supporting multiple orchestration environments.
-	- [Clair](https://coreos.com/clair) - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers.
-	- [OpenSCAP](https://www.open-scap.org/) - Discover a wide array of tools for managing system security and standards compliance.
-	- [Twistlock](https://www.twistlock.com/) - Container Security for Docker, Kubernetes and Beyond
-	- [Anchore](https://anchore.com/) - An open source complete solution for compliance, certification, security scanning, and auditing of public and private container images.
-	- [anchore.io](https://anchore.io/) - Discover, Analyze, and Certify Container Images.
-	- [Black Duck](https://www.blackducksoftware.com/)  - Complete Visibility. Automated Control.
-	- [NeuVector](https://neuvector.com/) - Continuous Network Security for Kubernetes Containers
-	- [Sonatype Nexus](https://www.sonatype.com/) - The world's best way to organize, store, and distribute software components.  	
+  > 保护您的图像，以便保持对在互联网上的显示方式的控制。
+
+	- [Notary](https://github.com/theupdateframework/notary) - 公证是一个允许任何人对任意数据集合有信任的项目。
+	- [TUF](https://theupdateframework.github.io/) - 一个保护软件更新系统的框架.
+	- [Aqua](https://www.aquasec.com/) - Aqua容器安全平台提供了开发到生产的生命周期控制，用于保护在Windows或Linux上运行在本地或云中的容器化应用程序，从而支持多种编排环境。
+	- [Clair](https://coreos.com/clair) - Clair是一个开源项目，用于对appc和docker容器中的漏洞进行静态分析。
+	- [OpenSCAP](https://www.open-scap.org/) - 发现各种管理系统安全和标准合规性的工具。
+	- [Twistlock](https://www.twistlock.com/) - Docker，Kubernetes和Beyond的容器安全.
+	- [Anchore](https://anchore.com/) - 公开和私人容器图像的合规性，认证，安全扫描和审核的开源完整解决方案。
+	- [anchore.io](https://anchore.io/) - 发现，分析和验证容器图像。
+	- [Black Duck](https://www.blackducksoftware.com/)  - 完全可见性。 自动化控制。
+	- [NeuVector](https://neuvector.com/) - Kubernetes容器的连续网络安全.
+	- [Sonatype Nexus](https://www.sonatype.com/) - 世界上最好的方式来组织，存储和分发软件组件。
 
 ## Runtime
 
@@ -224,105 +225,105 @@
   - [Kubernetes](https://kubernetes.io/) - Kubernetes是一个开源系统，用于自动化容器化应用程序的部署，扩展和管理。
   
   CNCF Member Products/Projects
-  - [ECS](https://aws.amazon.com/ecs/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
-  - [Docker Swarm](https://docs.docker.com/engine/swarm/) -  Swarm: a Docker-native clustering system 
-  - [Microsoft Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.   
+  - [ECS](https://aws.amazon.com/ecs/) - 亚马逊网络服务以网络服务的形式向企业提供信息技术基础设施服务。
+  - [Docker Swarm](https://docs.docker.com/engine/swarm/) -  Swarm：一个Docker本地集群系统。
+  - [Microsoft Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/) - Service Fabric是一个分布式系统平台，用于大规模打包，部署和管理无状态和有状态的分布式应用程序和容器。   
     
-  Non-CNCF Member Products/Projects
-  - [Mesos](https://mesos.apache.org/) - Mirror of Apache Mesos
-  - [Nomad](https://www.nomadproject.io/) - Nomad is a flexible, enterprise-grade cluster scheduler designed to easily integrate into existing workflows.       
+  非CNCF成员产品/项目
+  - [Mesos](https://mesos.apache.org/) - Apache Mesos的镜像
+  - [Nomad](https://www.nomadproject.io/) - Nomad是一款灵活的企业级集群调度程序，旨在轻松集成到现有工作流程中。  
     
-- Coordination & Service Discovery
+- 协调和服务发现
 
-  Incubating CNCF Projects
-  - [CoreDNS](https://coredns.io/) - CoreDNS is a DNS server that chains plugins.
+  CNCF培育项目
+  - [CoreDNS](https://coredns.io/) - CoreDNS是一个链接插件的DNS服务器。
     
-  CNCF Member Products/Projects
-  - [ContainerPilot](https://www.joyent.com/containerpilot) - A service for autodiscovery and configuration of applications running in containers
-  - [etcD](https://coreos.com/etcd/) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [VMware Haret](https://github.com/vmware/haret) - A strongly consistent distributed coordination system, built using proven protocols & implemented in Rust.
+  CNCF成员产品/项目
+  - [ContainerPilot](https://www.joyent.com/containerpilot) - 自动发现和配置在容器中运行的应用程序的服务.
+  - [etcD](https://coreos.com/etcd/) - 分布式可靠的键值存储用于分布式系统的最关键数据.
+  - [VMware Haret](https://github.com/vmware/haret) - 一个高度一致的分布式协调系统，使用成熟的协议构建并在Rust中实现。
       
-  Non-CNCF Member Products/Projects
-  - [Apache Zookeeper](https://zookeeper.apache.org/) - Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
-  - [Consul](https://www.consul.io/) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-  - [Eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
-  - [SkyDNS](https://github.com/skynetservices/skydns) - DNS service discovery for etcd
-  - [SmartStack](https://medium.com/airbnb-engineering/smartstack-service-discovery-in-the-cloud-4b8a080de619) - A transparent service discovery framework for connecting an SOA       
+  非CNCF成员产品/项目
+  - [Apache Zookeeper](https://zookeeper.apache.org/) - Apache ZooKeeper致力于开发和维护一个开源服务器，从而实现高度可靠的分布式协调。
+  - [Consul](https://www.consul.io/) - Consul是一个分布式，高可用性和数据中心感知解决方案，可在动态分布式基础架构上连接和配置应用程序。
+  - [Eureka](https://github.com/Netflix/eureka) - 适用于弹性中间层负载平衡和故障转移的AWS服务注册表。
+  - [SkyDNS](https://github.com/skynetservices/skydns) - etcd的DNS服务发现.
+  - [SmartStack](https://medium.com/airbnb-engineering/smartstack-service-discovery-in-the-cloud-4b8a080de619) - 一个透明的服务发现框架，用于连接SOA.
 
-- Service Management
+- 服务管理
 
-  - [Envoy](https://envoyproxy.github.io/) - C++ front/service proxy
-  - [gRPC](https://grpc.io/) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-  - [Linkerd](https://linkerd.io/) - Production-grade feature-rich service mesh for any platform
-  - [3Scale](https://www.3scale.net/) - 3scale api gateway reloaded
-  - [Ambassador](https://www.getambassador.io/) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
-  - [Avi Networks](https://avinetworks.com/) - Avi Networks is a Silicon Valley startup with proven track record in building virtualization, networking and software solutions.
-  - [Conduit](https://conduit.io/) - Ultralight service mesh for Kubernetes
-  - [F5](https://f5.com/) -  F5 Networks provides application delivery networking technology that optimizes the delivery of network-based applications.
-  - [Heptio Contour](https://github.com/heptio/contour) - Contour is a Kubernetes ingress controller for Lyft's Envoy proxy.
-  - [Kong](https://www.konghq.com/) - 🐒 The Microservice API Gateway
-  - [NGINX](https://www.nginx.com/) - application delivery for the modern web
-  - [Open Service Broker API](https://www.openservicebrokerapi.org/) - Open Service Broker API Specification
-  - [Turbine Labs](https://www.turbinelabs.io/) - Turbine Labs
-  - [Apache Thrift](https://thrift.apache.org/) - Mirror of Apache Thrift
+  - [Envoy](https://envoyproxy.github.io/) - C ++前台/服务代理
+  - [gRPC](https://grpc.io/) - 基于C的gRPC（C ++，Python，Ruby，Objective-C，PHP，C＃）
+  - [Linkerd](https://linkerd.io/) - 适用于任何平台的生产级功能丰富的服务网格
+  - [3Scale](https://www.3scale.net/) - 3scale api网关重新加载
+  - [Ambassador](https://www.getambassador.io/) - 基于Envoy Proxy构建的微服务的开源Kubernetes本地API网关
+  - [Avi Networks](https://avinetworks.com/) - Avi Networks是一家硅谷创业公司，在建立虚拟化，网络和软件解决方案方面拥有良好的记录。
+  - [Conduit](https://conduit.io/) - Kubernetes的超轻型服务网格.
+  - [F5](https://f5.com/) -  F5 Networks提供的应用交付网络技术可优化基于网络的应用的交付。
+  - [Heptio Contour](https://github.com/heptio/contour) - Contour是Lyft Envoy代理的Kubernetes入口控制器。
+  - [Kong](https://www.konghq.com/) - 🐒 微服务API网关
+  - [NGINX](https://www.nginx.com/) - 应用程序交付的现代网络
+  - [Open Service Broker API](https://www.openservicebrokerapi.org/) - 开放Service Broker API规范
+  - [Turbine Labs](https://www.turbinelabs.io/) - 涡轮实验室
+  - [Apache Thrift](https://thrift.apache.org/) - Apache Thrift的镜像
   - [Avro](https://avro.apache.org/) - Apache Avro
-  - [Backplane](https://www.backplane.io/) - A service that unifies discovery, routing, and load balancing for web servers written in any language, running in any cloud or datacenter.
-  - [HAProxy](https://www.haproxy.org/) - The Reliable, High Performance TCP/HTTP Load Balancer     
-  - [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-  - [Istio](https://istio.io/) -  An open platform to connect, manage, and secure microservices.
-  - [Netflix Zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
-  - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - An open source project to policy-enable your service.  
-  - [Ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. 
-  - [Traefik](https://traefik.io/) - Træfik, a modern reverse proxy
-  - [Vamp](https://vamp.io/) - Vamp - canary releasing and autoscaling for microservice systems.    
+  - [Backplane](https://www.backplane.io/) - 一种服务，用于统一在任何云或数据中心内运行的以任何语言编写的Web服务器的发现，路由和负载平衡。
+  - [HAProxy](https://www.haproxy.org/) - 可靠的高性能TCP / HTTP负载平衡器。   
+  - [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix是一个延迟和容错库，旨在隔离远程系统，服务和第三方库的访问点，阻止级联故障并在复杂的分布式系统中实现恢复能力，从而避免故障无法避免。
+  - [Istio](https://istio.io/) -  一个开放平台，用于连接，管理和保护微服务。
+  - [Netflix Zuul](https://github.com/Netflix/zuul) - 一个开放平台，用于连接，管理和保护微服务。
+  - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - 一个开放平台，用于连接，管理和保护微服务。
+  - [Ribbon](https://github.com/Netflix/ribbon) - 功能区是一个内置软件负载平衡器的进程间通信（远程过程调用）库。 
+  - [Traefik](https://traefik.io/) - Træfik，一个现代化的反向代理
+  - [Vamp](https://vamp.io/) - Vamp - 金丝雀发布和微型服务系统自动缩放。
 
-## Application Definition & Development
+## 应用程序定义和开发
 
-- Database & Data Warehouse
+- 数据库和数据仓库
   
-  Incubating CNCF Projects
-  - [Vitess](https://vitess.io/) - Vitess is a database clustering system for horizontal scaling of MySQL.
+  CNCF培育项目
+  - [Vitess](https://vitess.io/) - Vitess是一个用于MySQL水平缩放的数据库集群系统。
   
-  CNCF Member Products/Projects
-  - [Cloudhbase](https://www.couchbase.com/) - Lightweight, embedded, syncable NoSQL database engine for iOS (and Mac!) apps.
-  - [IBM DB2](https://www.ibm.com/analytics/us/en/db2/) - IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
-  - [Iguazio](https://www.iguazio.com/) - iguazio's Continuous Analytics Data Platform has redesigned the data stack to accelerate performance in big data, IoT and cloud-native apps.
-  - [Infinispan](http://infinispan.org/) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
-  - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
-  - [MySQL](https://www.oracle.com/mysql/index.html) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
-  - [Oracle](https://developer.oracle.com/) - Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.
-  - [RethinkDB](https://www.rethinkdb.com/) - The open-source database for the realtime web.
-  - [SQL Data Warehouse](https://azure.microsoft.com/en-us/services/sql-data-warehouse/) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
-  - [YugaByte DB](https://www.yugabyte.com/product/yugabytedb/) - YugaByteDB is a transactional, high-performance database for building distributed cloud services. It currently supports Redis API (as a true DB) and Cassandra API, with SQL coming very soon.
+  CNCF成员产品/项目
+  - [Cloudhbase](https://www.couchbase.com/) - 适用于iOS（和Mac！）应用程序的轻量级嵌入式可同步NoSQL数据库引擎。
+  - [IBM DB2](https://www.ibm.com/analytics/us/en/db2/) - IBM是一家IT技术和咨询公司，提供计算机硬件，软件，基础设施和托管服务。
+  - [Iguazio](https://www.iguazio.com/) - iguazio的Continuous Analytics Data Platform重新设计了数据堆栈，以加速大数据，物联网和云本地应用程序的性能。
+  - [Infinispan](http://infinispan.org/) - Infinispan是一个开源数据网格平台和高度可扩展的NoSQL云数据存储。
+  - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server) - Microsoft是一家开发，制造，许可，支持和销售一系列软件产品和服务的软件公司。
+  - [MySQL](https://www.oracle.com/mysql/index.html) - MySQL Server是全球最受欢迎的开源数据库，MySQL Cluster是一个实时的开源事务数据库。
+  - [Oracle](https://developer.oracle.com/) - Oracle是一家计算机技术公司，开发和销售计算机硬件系统和企业软件产品。
+  - [RethinkDB](https://www.rethinkdb.com/) - 实时网络的开源数据库。
+  - [SQL Data Warehouse](https://azure.microsoft.com/en-us/services/sql-data-warehouse/) - Microsoft是一家开发，制造，许可，支持和销售一系列软件产品和服务的软件公司。
+  - [YugaByte DB](https://www.yugabyte.com/product/yugabytedb/) - YugaByteDB是一个用于构建分布式云服务的事务性高性能数据库。 它目前支持Redis API（作为一个真正的数据库）和Cassandra API，SQL很快就会发布。
   
-  Non-CNCF Member Products/Projects
-  - [ArangoDB](https://www.arangodb.com/) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
-  - [BigchainDB](https://www.bigchaindb.com/) - Meet BigchainDB. The blockchain database.
-  - [CarbonData](https://carbondata.apache.org/) - Mirror of Apache CarbonData
-  - [Cassandra](https://cassandra.apache.org/) - Mirror of Apache Cassandra
-  - [CockroachDB](https://www.cockroachlabs.com/) - CockroachDB - the open source, cloud-native SQL database.
-  - [Crate.io](https://crate.io/) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
-  - [Druid](http://druid.io/) - Column oriented distributed data store ideal for powering interactive applications.
-  - [Hadoop](https://hadoop.apache.org/) - Mirror of Apache Hadoop
-  - [MariaDB](https://mariadb.org/) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
-  - [MemSQL](https://www.memsql.com/) - A real-time data warehouse you can run everywhere
-  - [MongoDB](https://www.mongodb.com/) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need
-  - [NomsDB](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
-  - [OrientDB](https://orientdb.com/why-orientdb/) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text, Geospatial and Key-Value models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
-  - [Pachyderm](https://www.pachyderm.io/) - Reproducible Data Science at Scale!
-  - [Pilosa](https://www.pilosa.com/) - Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
-  - [PostgreSQL](https://www.postgresql.org/) - PostgreSQL is a powerful, open source object-relational database system.
-  - [Presto](https://prestodb.io/) - Distributed SQL query engine for big data
-  - [Qubole](https://www.qubole.com/) - Qubole delivers a Self-Service Platform for Big Data Analytics built on Amazon, Microsoft, Google and Oracle Clouds.
-  - [Redis](https://redis.io/) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
-  - [Scylla](https://www.scylladb.com/) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
-  - [Snowflake](https://www.snowflake.net/) - Snowflake is the only data warehouse built for the cloud.
-  - [Software AG](https://www.softwareag.com/us/default.html) - Software AG provides business process management, data management, and consulting services worldwide.
-  - [Starburst](https://www.starburstdata.com/) - Starburst (www.starburstdata.com) is the enterprise Presto company offering an SQL-on-Anything analytics platform. 
-  - [TiDB](https://pingcap.com/index) - TiDB is a distributed HTAP database compatible with the MySQL protocol.
-  - [Vertica](https://www.vertica.com/) - Vertica Systems develops data management solutions for storing databases and allowing clients to conduct real-time and ad hoc queries.         
+  非CNCF成员产品/项目
+  - [ArangoDB](https://www.arangodb.com/) - 🥑 ArangoDB是一个原生的多模型数据库，具有灵活的文档，图表和键值数据模型。 使用方便的SQL查询语言或JavaScript扩展构建高性能应用程序。
+  - [BigchainDB](https://www.bigchaindb.com/) - 满足BigchainDB。 区块链数据库。
+  - [CarbonData](https://carbondata.apache.org/) - Apache CarbonData的镜像
+  - [Cassandra](https://cassandra.apache.org/) - Apache Cassandra的镜像
+  - [CockroachDB](https://www.cockroachlabs.com/) - CockroachDB - 开源的云本地SQL数据库。
+  - [Crate.io](https://crate.io/) - CrateDB是一个分布式SQL数据库，可以实时存储和分析海量机器数据。
+  - [Druid](http://druid.io/) - 面向列的分布式数据存储非常适合作为交互式应用程序
+  - [Hadoop](https://hadoop.apache.org/) - Apache Hadoop的镜像
+  - [MariaDB](https://mariadb.org/) - MariaDB服务器是社区开发的MySQL服务器分支。 MariaDB由原始MySQL团队的核心成员开始，积极与外部开发人员合作，为业内提供功能最强大，最稳定，最明智的开放式SQL服务器。
+  - [MemSQL](https://www.memsql.com/) - 可以随处运行的实时数据仓库
+  - [MongoDB](https://www.mongodb.com/) -MongoDB是一个文档数据库，具有您想要的查询和索引所需的可扩展性和灵活性。
+  - [NomsDB](https://github.com/attic-labs/noms) - 版本化的，可分叉的，可同步的数据库。
+  - [OrientDB](https://orientdb.com/why-orientdb/) -OrientDB是支持图形，文档，反应性，全文，地理空间和键值模型的最通用的数据库管理系统，在一个多模型产品中。 OrientDB可以运行分布式（Multi-Master），支持SQL，ACID事务，全文索引和反应查询。 OrientDB Community Edition使用自由Apache 2许可证开源。
+  - [Pachyderm](https://www.pachyderm.io/) - 规模可重复的数据科学！
+  - [Pilosa](https://www.pilosa.com/) - Pilosa是一个开源的分布式位图索引，可显着加速跨多个海量数据集的查询。
+  - [PostgreSQL](https://www.postgresql.org/) - PostgreSQL是一个功能强大的开源对象关系数据库系统。
+  - [Presto](https://prestodb.io/) - 大数据的分布式SQL查询引擎。
+  - [Qubole](https://www.qubole.com/) - Qubole为基于亚马逊，微软，谷歌和Oracle云计算的大数据分析提供自助服务平台。
+  - [Redis](https://redis.io/) - Redis是内存中的数据库，它保留在磁盘上。 数据模型是键值，但支持许多不同类型的值：字符串，列表，集合，排序集合，哈希，HyperLogLog，位图。
+  - [Scylla](https://www.scylladb.com/) - NoSQL数据存储使用seastar框架，与Apache Cassandra兼容。
+  - [Snowflake](https://www.snowflake.net/) - Snowflake是为云构建的唯一数据仓库。
+  - [Software AG](https://www.softwareag.com/us/default.html) - Software AG在全球范围内提供业务流程管理，数据管理和咨询服务。
+  - [Starburst](https://www.starburstdata.com/) - Starburst是提供SQL-on-Anything分析平台的企业Presto公司。
+  - [TiDB](https://pingcap.com/index) - TiDB是一个与MySQL协议兼容的分布式HTAP数据库。
+  - [Vertica](https://www.vertica.com/) - Vertica Systems开发了用于存储数据库的数据管理解决方案，并允许客户进行实时和即席查询。      
 
-- Streaming
+- 流
 
   Incubating CNCF Projects
   - [NATS](https://nats.io/) - High-Performance server for NATS, the cloud native messaging system.
@@ -345,14 +346,14 @@
   - [RabbitMQ](https://www.rabbitmq.com/) - RabbitMQ is the most widely deployed open source message broker.
   - [StreamSets](https://streamsets.com/) - StreamSets DataCollector - Continuous big data ingest infrastructure. 	   
                   
-- Source Code Management
+- 源代码管理
 
   - [GitHub](https://github.com/) - GitHub is a web-based Git repository hosting service offering distributed revision control and source code management functionality of Git.
   - [GitLab](https://gitlab.com/) - GitLab CE | Please open new issues in our issue tracker on GitLab.com
   - [Visual Studio Team Services](https://www.visualstudio.com/team-services/) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
   - [Bitbucket](https://bitbucket.org/) - Atlassian provides collaboration software for teams with products including JIRA, Confluence, HipChat, Bitbucket, and Stash.
 	                  
-- Application Definition
+- 应用程序定义
   - [Bitnami](https://bitnami.com/) - Loved by Devs, Trusted by Ops. Easy to use cloud images, containers, and VMs that work on any platform
   - [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container applications with Docker
   - [Habitat](https://www.habitat.sh/) - Modern applications with built-in automation
@@ -364,7 +365,7 @@
   
 - CI & CD
 
-  > Continuous integration and continuous delivery are two approaches to software development that are designed to improve code quality and enable rapid delivery and deployment of code.
+  > 持续集成和持续交付是软件开发的两种方法，旨在提高代码质量并实现代码的快速交付和部署。
   
   CNCF Member Products/Projects
   - [Argo](https://applatix.com/open-source/argo/) - Get stuff done with container-native workflows for Kubernetes.
@@ -397,9 +398,9 @@
   - [Travis](https://travis-ci.com/) - The Ember web client for Travis CI
   - [XL Deploy](https://xebialabs.com/products/xl-deploy/) - XebiaLabs develops enterprise-scale Continuous Delivery and DevOps software.    
   
-## Platform
+## 平台
 
-- Certified Kubernetes - Distribution
+- 认证Kubernetes - 分销
   - [Apprenda Kismatic Enterprise Toolkit (KET)](https://apprenda.com/kismatic/)
   - [Appscode Pharmer](https://appscode.com/products/pharmer/)
   - [Caicloud Compass](https://caicloud.io/products/compass)
@@ -438,7 +439,7 @@
   - [WiseCloud](http://www.wise2c.com/solution)
   - [Typhoon](https://typhoon.psdn.io/)
           
-- Certified Kubernetes - Platform
+- 认证Kubernetes - 平台
   - [Alauda EE](http://www.alauda.cn/product/detail/id/144.html)
   - [Alibaba Cloud Container Service](https://www.alibabacloud.com/product/container-service?spm=a3c0i.7911826.709257.dproducta4.1010a3feFbGgBW)
   - [Azure (ACS) Engine](https://github.com/Azure/acs-engine)
@@ -460,7 +461,7 @@
   - [TenxCloud Container Engine (TCE)](https://tenxcloud.com/enterprise.html)
   - [ZTE TECS](https://sdnfv.zte.com.cn/en/products/126)  
 
-- Non-Certified Kubernetes
+- 未经认证的Kubernetes
   - [Amazon Elastic Container Service for Kubernetes (EKS)](https://aws.amazon.com/eks/)
   - [Cloud 66 Maestro](https://www.cloud66.com/containers/maestro)
   - [Containership](https://containership.io/)
@@ -471,7 +472,7 @@
   - [goPaddle](https://www.gopaddle.io/#/)
   - [Stratoscale Symphony](https://www.stratoscale.com/products/symphony/)
   
-- PaaS & Container Service
+- PaaS和集装箱服务
   - [Apcera](https://www.apcera.com/) - Ericsson is a technology company that provides and operates telecommunications networks, television and video systems, and related services.
   - [Cloud Foundry Application Runtime](https://www.cloudfoundry.org/application-runtime/) - Cloud Foundry Application Runtime utilizes containers as part of its DNA, and has since before Docker popularized containers. The new CF Container Runtime gives you more granular control and management of containers with Kubernetes.
   - [Datawire](https://www.datawire.io/) - An early stage startup that's focused on making it easy for developers to build resilient microservices.
@@ -494,16 +495,16 @@
   - [Scalingo](https://scalingo.com/) - Scalingo a Docker Platform Service Transform your code as Docker container & run it on our cloud, making it instantly available & scalable.
   - [Tsuru](https://tsuru.io/) - Open source, extensible and Docker-based Platform as a Service (PaaS).
 
-## Serverless
+## 无服务器
 
-- Security
+- 安全
   - [PureSec](https://www.puresec.io/) - PureSec is the world's leading Serverless Security Runtime Environment
   - [Snyk](https://snyk.io/) - Snyk is a security company helping to monitor app vulnerabilities.
   
-- Libraries
+- 库函数
   - [Python Lambda](https://aws.amazon.com/lambda/) - A toolkit for developing and deploying serverless Python code in AWS Lambda.
 
-- Tools
+- 工具
   - [Architect](https://arc.codes/) - 🔑 cloud function signatures for http handlers, pubsub, scheduled functions and table triggers
   - [Dashbird](https://www.dashbird.io/) - AWS Lambda monitoring & debugging platform. Serverless observability & troubleshooting. Serverless monitoring.
   - [IOpipe](https://www.iopipe.com/) - IOpipe provides a toolbox for developing, monitoring, and operating serverless applications.
@@ -512,7 +513,7 @@
   - [Stackery](https://www.stackery.io/) - Run serverless in production with Stackery's serverless operations console.
   - [Thundra](https://www.thundra.io/) - IT Alert and Notifications Management
   
-- Frameworks
+- 框架
   - [AWS Chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
   - [SAM Local](https://github.com/awslabs/serverless-application-model) - AWS Serverless Application Model (AWS SAM) prescribes rules for expressing Serverless applications on AWS.
   - [Serverless](https://serverless.com/) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! 
@@ -528,7 +529,7 @@
   - [Mitoc Group Deep](https://docs.deep.mg/) - Full-stack JavaScript Framework for Cloud-Native Web Applications (perfect for Serverless use cases)
   - [Sparta](https://gosparta.io/) - A GO FRAMEWORK FOR AWS LAMBDA 
   
-- Platforms
+- 平台
 
   CNCF Member Products/Projects 
   - [AWS Lambda](https://aws.amazon.com/lambda/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
@@ -555,7 +556,7 @@
   - [Webtask](https://webtask.io/) - Webtasks is a simple, lightweight, and secure way of running isolated backend code that removed or reduces the need for a backend.
   - [Zeit Now](https://zeit.co/now) - Now – Realtime Global Deployments
             
-- Hybrid Platforms
+- 混合平台
   - [Galactic Fog Gestalt](http://www.galacticfog.com/product/) - Build Future-Proof Applications. Simplify integration. Run applications anywhere. Adapt to changes instantly.
   - [Nuclio](https://nuclio.io/) - High-Performance Serverless event and data processing platform
   - [Binaris](https://www.binaris.com/) - A high-performance serverless platform for interactive and real-time applications.
@@ -564,7 +565,7 @@
   - [fx](https://minghe.me/) - fx is a tool to help you do Function as a Service with painless on your own servers
   - [LunchBadger](https://www.lunchbadger.com/) - LunchBadger is a multi-cloud platform for microservices and serverless.        
   
-- Kubernetes-Native Platforms
+- Kubernetes原生平台
   - [Fission](https://fission.io/) - Fast Serverless Functions for Kubernetes
   - [Oracle Application Container Cloud](https://cloud.oracle.com/acc) - Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.
   - [Riff](https://projectriff.io/) - riff is for functions
@@ -574,9 +575,9 @@
   - [OpenLambda](https://open-lambda.org/)  -  An open source serverless computing platform
   - [PubNub](https://www.pubnub.com/docs/blocks-catalog) - The PubNub Data Stream Network enables mobile and web developers to build and scale realtime apps.
   
-## Observability & Analysis
+## 可观测性和分析
 
-- Monitoring
+- 监控
 
   CNCF Member Products/Projects 
   - [Prometheus](https://prometheus.io/) - The Prometheus monitoring system and time series database.
@@ -626,7 +627,7 @@
   - [Wavefront](https://www.wavefront.com/) - Wavefront is a hosted platform for ingesting, storing, visualizing and alerting on time series data.
   - [Zabbix](https://www.zabbix.com/) - The Ultimate Enterprise - class Monitoring Platform  
     
-- Logging
+- 日志记录
 
   - [Fluentd](https://www.fluentd.org/) - Fluentd: Unified Logging Layer (project under CNCF)
   - [Humio](https://www.humio.com/) - Log everything, answer anything
@@ -639,23 +640,23 @@
   - [Sematext](https://sematext.com/) -  Sematext is a Search and Big Data analytics products and services company.
   - [Sumo Logic](https://www.sumologic.com/) - Sumo Logic, a log management and analytics service, transforms big data into sources of operations, security and compliance intelligence.
 
-- Tracing
+- 追踪
 
-  - [Jaeger](http://jaegertracing.io/) - CNCF Jaeger, a Distributed Tracing System
-  - [OpenTracing](http://opentracing.io/) - OpenTracing API for Go
-  - [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/) - Distributed tracing for spring cloud
-  - [Appdash](https://github.com/sourcegraph/appdash) - Application tracing system for Go, based on Google's Dapper.
-  - [SkyWalking](http://skywalking.io/) - A distributed tracing system, and APM ( Application Performance Monitoring )
-  - [Zipkin](https://zipkin.io/) - Zipkin is a distributed tracing system
+  - [Jaeger](http://jaegertracing.io/) - CNCF Jaeger，分布式追踪系统。
+  - [OpenTracing](http://opentracing.io/) - Go的OpenTracing API
+  - [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/) - spring cloud分布式追踪
+  - [Appdash](https://github.com/sourcegraph/appdash) - Go的应用程序追踪系统基于Google的Dapper。
+  - [SkyWalking](http://skywalking.io/) - 分布式跟踪系统和APM（应用程序性能监视）
+  - [Zipkin](https://zipkin.io/) - Zipkin是一个分布式追踪系统
  
 
-## Contribute
+## 贡献
 
-Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
+欢迎提交合并请求, 请参照 [contribution guidelines](Contributing.md).
 
-**[⬆ back to top](#components)**
+**[⬆ 回到顶部](#components)**
 
-## License
+## 开源许可
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
