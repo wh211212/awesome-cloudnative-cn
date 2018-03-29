@@ -368,35 +368,35 @@
   > 持续集成和持续交付是软件开发的两种方法，旨在提高代码质量并实现代码的快速交付和部署。
   
   CNCF Member Products/Projects
-  - [Argo](https://applatix.com/open-source/argo/) - Get stuff done with container-native workflows for Kubernetes.
-  - [Cloud 66 Skycap](https://www.cloud66.com/containers/skycap) - Ops tools for Devs. Build, deliver, deploy and manage any applications on any cloud or server.
-  - [Cloudbees](https://www.cloudbees.com/) - CloudBees offers CloudBees Jenkins Enterprise, an enterprise-grade continuous delivery platform powered by Jenkins.
-  - [Codefresh](https://codefresh.io/) - Codefresh is a continuous delivery and collaboration platform for containers and microservices.
-  - [Codeship](https://codeship.com/) - CloudBees offers CloudBees Jenkins Enterprise, an enterprise-grade continuous delivery platform powered by Jenkins.
-  - [Concourse](https://concourse.ci/) - BOSH release and development workspace for Concourse
-  - [ContainerOps](https://containerops.org/) - DevOps Orchestration Platform 
-  - [Habitus](https://www.habitus.io/) - A Build Flow Tool for Docker
-  - [Runner](https://docs.gitlab.com/runner/) - GitLab Runner is the open source project that is used to run your jobs and send the results back to GitLab. 
-  - [Weave Flux](https://www.weave.works/oss/flux/) - A tool for deploying container images to Kubernetes services
-  - [Wercker](https://www.wercker.com/) - The Wercker CLI can be used to execute pipelines locally for both local development and easy introspection.
+  - [Argo](https://applatix.com/open-source/argo/) - 使用Kubernetes的容器本机工作流程完成任务。
+  - [Cloud 66 Skycap](https://www.cloud66.com/containers/skycap) - 开发者的Ops工具。 在任何云或服务器上构建，交付，部署和管理任何应用程序。
+  - [Cloudbees](https://www.cloudbees.com/) - CloudBees提供由Jenkins提供支持的企业级持续交付平台CloudBees Jenkins Enterprise。
+  - [Codefresh](https://codefresh.io/) - Codefresh是一个针对容器和微服务的持续交付和协作平台。
+  - [Codeship](https://codeship.com/) - 充满信心地运送您的应用程序。 开始使用云中的免费CI / CD。加快你的开发过程。
+  - [Concourse](https://concourse.ci/) - BOSH为Concourse发布和开发工作空间
+  - [ContainerOps](https://containerops.org/) -DevOps编排平台
+  - [Habitus](https://www.habitus.io/) - Docker的构建流程工具
+  - [Runner](https://docs.gitlab.com/runner/) - GitLab Runner是用于运行作业并将结果发回给GitLab的开源项目。
+  - [Weave Flux](https://www.weave.works/oss/flux/) - 用于将容器映像部署到Kubernetes服务的工具
+  - [Wercker](https://www.wercker.com/) - Wercker CLI可以用于本地执行管道，用于本地开发和轻松自省。
   
   Non-CNCF Member Products/Projects
-  - [Appveyor](https://www.appveyor.com/) - Appveyor Systems Inc. aim is to give powerful continuous integration and deployment tools to every .NET developer.  
-  - [Bamboo](https://www.atlassian.com/software/bamboo/) - Atlassian provides collaboration software for teams with products including JIRA, Confluence, HipChat, Bitbucket, and Stash.
-  - [BuddyBuild](https://www.buddybuild.com/) - Buddybuild is a Vancouver-based app tools company focused on continuous integration and debugging tools.
-  - [Buildkite](https://buildkite.com/) - The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network
-  - [CircleCI](https://circleci.com/) - CircleCI provides software teams the confidence to build, test, and deploy across numerous platforms.
-  - [Distelli](https://www.distelli.com/) - True Continuous Delivery from Source Control to Servers.
-  - [Drone](http://try.drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go
-  - [Jenkins](https://jenkins.io/) - Build great things at any scale
-  - [Octopus Deploy](https://octopus.com/) - Octopus Deploy is a user-friendly release management
-  - [OpenStack Zuul CI](https://zuul-ci.org/) - The Gatekeeper, or a project gating system
-  - [Semaphore](https://semaphoreci.com/) - Hosted continuous integration and deployment service
-  - [Shippable](https://www.shippable.com/) - Shippable helps companies ship code faster by giving them a powerful continuous integration platform built natively on Docker.
-  - [Solano Labs](https://www.solanolabs.com/) - Continuous Integration & Deployment       
-  - [Spinnaker](https://www.spinnaker.io/) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-  - [Travis](https://travis-ci.com/) - The Ember web client for Travis CI
-  - [XL Deploy](https://xebialabs.com/products/xl-deploy/) - XebiaLabs develops enterprise-scale Continuous Delivery and DevOps software.    
+  - [Appveyor](https://www.appveyor.com/) - Appveyor Systems Inc.的目标是为每个.NET开发人员提供强大的持续集成和部署工具。
+  - [Bamboo](https://www.atlassian.com/software/bamboo/) - Atlassian为团队提供协作软件，包括JIRA，Confluence，HipChat，Bitbucket和Stash。
+  - [BuddyBuild](https://www.buddybuild.com/) - Buddybuild是一家总部位于温哥华的应用工具公司，专注于持续集成和调试工具。
+  - [Buildkite](https://buildkite.com/) - Buildkite代理是一个用Golang编写的开源工具包，用于在任何设备或网络上安全地运行构建作业
+  - [CircleCI](https://circleci.com/) - CircleCI为软件团队提供了在众多平台上构建，测试和部署的信心。
+  - [Distelli](https://www.distelli.com/) - 从源代码控制到服务器的真正连续传输。
+  - [Drone](http://try.drone.io/) - Drone是一个以Go编写的Docker构建的持续交付平台
+  - [Jenkins](https://jenkins.io/) - 在任何规模上创造伟大的事物
+  - [Octopus Deploy](https://octopus.com/) - Octopus Deploy是一个用户友好的发布管理
+  - [OpenStack Zuul CI](https://zuul-ci.org/) - 关守或者项目门控系统
+  - [Semaphore](https://semaphoreci.com/) - 托管持续集成和部署服务
+  - [Shippable](https://www.shippable.com/) - 通过为Docker提供强大的持续集成平台，Shippable帮助公司更快地发布代码。
+  - [Solano Labs](https://www.solanolabs.com/) - 持续集成和部署     
+  - [Spinnaker](https://www.spinnaker.io/) - Spinnaker是一款开源，多云连续交付平台，可以高速度和可靠地释放软件更改。
+  - [Travis](https://travis-ci.com/) - Travis CI的Ember网络客户端
+  - [XL Deploy](https://xebialabs.com/products/xl-deploy/) - XebiaLabs开发企业级的持续交付和DevOps软件。
   
 ## 平台
 
