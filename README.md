@@ -580,52 +580,52 @@
 - 监控
 
   CNCF Member Products/Projects 
-  - [Prometheus](https://prometheus.io/) - The Prometheus monitoring system and time series database.
-  - [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
-  - [Datadog](https://www.datadoghq.com/) - Datadog offers a cloud-scale monitoring service.
-  - [Dynatrace](https://www.dynatrace.com/) - Dynatrace transform how Web and non-Web business-critical applications are monitored, managed, and optimized throughout their lifecycle.
-  - [Google Stackdriver](https://cloud.google.com/stackdriver/) - Google is a multinational corporation that is specialized in internet-related services and products.  
-  - [Grafana](https://grafana.com/) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-  - [InfluxDB](https://www.influxdata.com/) - Scalable datastore for metrics, events, and real-time analytics
-  - [Instana](https://www.instana.com/) - Instana is an APM solution that automatically monitors dynamic modern apps.
-  - [Lighstep](https://lightstep.com/) - LightStep's mission is to cut through the scale and complexity of today's software to help organizations stay in control of their systems.
-  - [Log Analytics](https://azure.microsoft.com/en-us/services/log-analytics/) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
-  - [Netsil](https://netsil.com/) - Observability and Monitoring for Modern Cloud Applications
-  - [SignalFX](https://signalfx.com/) - Advanced monitoring platform for modern applications
-  - [Snap](https://snap-telemetry.io/) - A powerful open telemetry framework.Easily collect, process, and publish telemetry data at scale.
-  - [SysDig](https://sysdig.com/) - Linux system exploration and troubleshooting tool with first class support for containers
-  - [Weave Cloud](https://www.weave.works/product/cloud/) - Weaveworks provides a simple and consistent way to connect and manage containers and microservices.
+  - [Prometheus](https://prometheus.io/) - 普罗米修斯监测系统和时间序列数据库。
+  - [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) - 亚马逊网络服务以网络服务的形式向企业提供信息技术基础设施服务。
+  - [Datadog](https://www.datadoghq.com/) - Datadog提供云计算监控服务。
+  - [Dynatrace](https://www.dynatrace.com/) - Dynatrace转换了Web和非Web业务关键型应用程序在整个生命周期中如何进行监视，管理和优化。
+  - [Google Stackdriver](https://cloud.google.com/stackdriver/) - Google是一家跨国公司，专门从事与互联网有关的服务和产品。
+  - [Grafana](https://grafana.com/) - 为Graphite，InfluxDB和Prometheus＆More提供漂亮的监控和度量分析和仪表板工具
+  - [InfluxDB](https://www.influxdata.com/) - 用于衡量指标，事件和实时分析的可伸缩数据存储
+  - [Instana](https://www.instana.com/) - Instana是一款可自动监控动态现代应用程序的APM解决方案。
+  - [Lighstep](https://lightstep.com/) - LightStep的使命是削减当今软件的规模和复杂性，以帮助组织控制其系统。
+  - [Log Analytics](https://azure.microsoft.com/en-us/services/log-analytics/) - Microsoft是一家开发，制造，许可，支持和销售一系列软件产品和服务的软件公司。
+  - [Netsil](https://netsil.com/) - 现代云应用的可观测性和监控
+  - [SignalFX](https://signalfx.com/) - 先进的现代应用监控平台
+  - [Snap](https://snap-telemetry.io/) -一个强大的开放遥测框架。轻松收集，处理和发布遥测数据。
+  - [SysDig](https://sysdig.com/) - Linux系统探索和故障排除工具，第一级支持容器
+  - [Weave Cloud](https://www.weave.works/product/cloud/) - Weaveworks提供了一种简单而一致的方式来连接和管理容器和微服务。
   
   Non-CNCF Member Products/Projects
-  - [AppDynamics](https://www.appdynamics.com/) - AppDynamics develops application performance management (APM) solutions that deliver problem resolution for highly distributed applications.
-  - [AppNeta](https://www.appneta.com/) - AppNeta is the only app performance monitoring company with solutions for apps you develop, SaaS apps you use & networks that deliver them.
-  - [Axibase](https://axibase.com/) - Purpose-built solution for analyzing and reporting on massive volumes of time-series data collected at high frequency.
-  - [Catchpoint Systems](https://www.catchpoint.com/) - Catchpoint is a leading digital experience intelligence company.
-  - [Centreon](https://www.centreon.com/en/) - Centreon is a network, system, applicative supervision and monitoring tool.
-  - [Cobe](https://cobe.io/) - Cobe delivers an aggregated view of every element related to your business.
-  - [CoScale](https://www.coscale.com/) - Full stack performance monitoring. Built for container and microservices applications. Powered by anomaly detection.
-  - [Graphite](https://graphiteapp.org/) - A highly scalable real-time graphing system
-  - [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monit.
-  - [Icinga](https://www.icinga.com/) - Monitoring as code
-  - [IronDB](https://www.circonus.com/irondb/) - Realtime Monitoring and Analytics
-  - [Librato](https://www.librato.com/) - Real time operations analytics for metrics from any source
-  - [Meros](https://meros.io/) - Meros is creating enterprise monitoring and management tools for Docker
-  - [Nagios](https://www.nagios.com/) - The Industry Standard In IT Infrastructure Monitoring.
-  - [New Relic](https://newrelic.com/) - New Relic is a leading digital intelligence company, delivering full-stack visibility and analytics to enterprises around the world.
-  - [NodeSource](https://nodesource.com/) - Building products focused on Node.js security and performance for the Enterprise.
-  - [OpBeat](https://opbeat.com/) - Opbeat is joining forces with Elastic.
-  - [OpenTSDB](http://opentsdb.net/) - A scalable, distributed Time Series Database.
-  - [OpsClarity](https://www.opsclarity.com/) - Intelligent Monitoring for Modern Applications and Data Infrastructure
-  - [Outlyer](https://www.outlyer.com/) - Infrastructure monitoring platform made for DevOps and microservices.
-  - [Rocana](https://www.rocana.com/) - Rocana is a San Francisco, CA-based provider of root cause analysis software company
-  - [Sensu](https://sensuapp.org/) - Monitoring for today's infrastructure.
-  - [Sentry](https://sentry.io/) - Sentry is a cross-platform crash reporting and aggregation platform.
-  - [Server Density](https://www.serverdensity.com/) - Monitoring agent for Server Density (Linux, FreeBSD and OS X)
-  - [StackRox](https://www.stackrox.com/) - StackRox delivers the industry's only adaptive threat protection for containers.
-  - [StackState](https://www.stackstate.com/) - The market-leading Algorithmic IT Operations platform
-  - [Tingyun](http://www.tingyun.com/tingyun_app.html) - Observability and Analysis, Monitoring
-  - [Wavefront](https://www.wavefront.com/) - Wavefront is a hosted platform for ingesting, storing, visualizing and alerting on time series data.
-  - [Zabbix](https://www.zabbix.com/) - The Ultimate Enterprise - class Monitoring Platform  
+  - [AppDynamics](https://www.appdynamics.com/) - AppDynamics开发应用程序性能管理（APM）解决方案，为高度分布式应用程序提供问题解决方案。
+  - [AppNeta](https://www.appneta.com/) - AppNeta是唯一的应用程序性能监控公司，为您开发的应用程序，您使用的SaaS应用程序以及提供它们的网络提供解决方案。
+  - [Axibase](https://axibase.com/) - 用于分析和报告高频率收集的大量时间序列数据的专用解决方案。
+  - [Catchpoint Systems](https://www.catchpoint.com/) - Catchpoint是一家领先的数字体验智能公司。
+  - [Centreon](https://www.centreon.com/en/) - Centreon是一个网络，系统，应用监督和监控工具。
+  - [Cobe](https://cobe.io/) - Cobe提供与您的业务相关的每个元素的汇总视图。
+  - [CoScale](https://www.coscale.com/) - 全堆栈性能监控。 专为容器和微服务应用程序而构建。 由异常检测提供支持。
+  - [Graphite](https://graphiteapp.org/) - 高度可扩展的实时图形系统
+  - [Honeybadger](https://www.honeybadger.io/) - 例外，正常运行时间和性能监视。
+  - [Icinga](https://www.icinga.com/) - 作为代码监控
+  - [IronDB](https://www.circonus.com/irondb/) - 实时监控和分析
+  - [Librato](https://www.librato.com/) - 实时操作分析来自任何来源的指标
+  - [Meros](https://meros.io/) - Meros正在为Docker创建企业监控和管理工具
+  - [Nagios](https://www.nagios.com/) - IT基础设施监控行业标准。
+  - [New Relic](https://newrelic.com/) - New Relic是一家领先的数字化情报公司，为全球企业提供全面的可视性和分析。
+  - [NodeSource](https://nodesource.com/) - 构建专注于Node.js安全性和企业性能的产品。
+  - [OpBeat](https://opbeat.com/) - Opbeat正与Elastic合作。
+  - [OpenTSDB](http://opentsdb.net/) -可扩展的分布式时间序列数据库。
+  - [OpsClarity](https://www.opsclarity.com/) - 现代应用和数据基础设施的智能监测
+  - [Outlyer](https://www.outlyer.com/) - 为DevOps和微服务设计的基础设施监控平台。
+  - [Rocana](https://www.rocana.com/) - Rocana是位于加利福尼亚州旧金山的根本原因分析软件公司提供商
+  - [Sensu](https://sensuapp.org/) - 监测当今的基础设施。
+  - [Sentry](https://sentry.io/) - Sentry是一个跨平台的崩溃报告和聚合平台。
+  - [Server Density](https://www.serverdensity.com/) - 服务器密度监控代理（Linux，FreeBSD和OS X）
+  - [StackRox](https://www.stackrox.com/) - StackRox为容器提供业界唯一的自适应威胁防护。
+  - [StackState](https://www.stackstate.com/) - 市场领先的算法IT操作平台
+  - [Tingyun](http://www.tingyun.com/tingyun_app.html) - 可观测性与分析，监测
+  - [Wavefront](https://www.wavefront.com/) - Wavefront是一个托管平台，用于对时间序列数据进行摄取，存储，可视化和提醒。
+  - [Zabbix](https://www.zabbix.com/) - 最终的企业级监控平台
     
 - 日志记录
 
