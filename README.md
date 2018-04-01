@@ -473,7 +473,7 @@
   - [Stratoscale Symphony](https://www.stratoscale.com/products/symphony/)
   
 - PaaS和集装箱服务
-  - [Apcera](https://www.apcera.com/) - Ericsson is a technology company that provides and operates telecommunications networks, television and video systems, and related services.
+  - [Apcera](https://www.apcera.com/) - 爱立信是一家提供和运营电信网络，电视和视频系统以及相关服务的科技公司。
   - [Cloud Foundry Application Runtime](https://www.cloudfoundry.org/application-runtime/) - Cloud Foundry Application Runtime utilizes containers as part of its DNA, and has since before Docker popularized containers. The new CF Container Runtime gives you more granular control and management of containers with Kubernetes.
   - [Datawire](https://www.datawire.io/) - An early stage startup that's focused on making it easy for developers to build resilient microservices.
   - [Exoscale](https://www.exoscale.ch/) - Exoscale is the cloud hosting platform for SaaS companies, developers and systems administrators.
