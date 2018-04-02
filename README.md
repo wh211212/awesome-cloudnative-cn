@@ -474,26 +474,26 @@
   
 - PaaS和集装箱服务
   - [Apcera](https://www.apcera.com/) - 爱立信是一家提供和运营电信网络，电视和视频系统以及相关服务的科技公司。
-  - [Cloud Foundry Application Runtime](https://www.cloudfoundry.org/application-runtime/) - Cloud Foundry Application Runtime utilizes containers as part of its DNA, and has since before Docker popularized containers. The new CF Container Runtime gives you more granular control and management of containers with Kubernetes.
-  - [Datawire](https://www.datawire.io/) - An early stage startup that's focused on making it easy for developers to build resilient microservices.
-  - [Exoscale](https://www.exoscale.ch/) - Exoscale is the cloud hosting platform for SaaS companies, developers and systems administrators.
-  - [Galactic Fog](http://www.galacticfog.com/) - Build Future-Proof Applications. Simplify integration. Run applications anywhere. Adapt to changes instantly.
-  - [Heroku](https://www.heroku.com/) - Salesforce is a global cloud computing company that develops CRM solutions and provides business software on a subscription basis.
-  - [Atomist](Atomist) - Atomist make microservice applications Easy and fun to build, through a cloud-based service.
-  - [Clouber](https://www.clouber.io/) - Clouber is a provider of mCenter, an Application Modernization/Migration / Management platform across hybrid (public and private) clouds.
-  - [Convox](https://convox.com/) - Launch a Private Cloud in Minutes.
-  - [Empire](http://engineering.remind.com/) - A PaaS built on top of Amazon EC2 Container Service (ECS)
-  - [Flynn](https://flynn.io/) - A next generation open source platform as a service (PaaS
-  - [Hyper](https://www.hyper.sh/) - Hyper.sh is a secure container cloud service.
-  - [JHipster](https://www.jhipster.tech/) - Open Source application generator for creating Spring Boot + Angular projects in seconds!
-  - [Kontena](https://kontena.io/) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use.
-  - [Lightbend](https://www.lightbend.com/) - Lightbend (formerly Typesafe) is dedicated to helping developers build Reactive applications on the JVM.
-  - [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  - [PaaSTA](https://github.com/Yelp/paasta) - An open, distributed platform as a service
-  - [Platform.sh](https://platform.sh/) - Platform.sh is an automated, continuous-deployment high-availability cloud hosting solution
-  - [Portainer](https://portainer.io/) - Simple management UI for Docker
-  - [Scalingo](https://scalingo.com/) - Scalingo a Docker Platform Service Transform your code as Docker container & run it on our cloud, making it instantly available & scalable.
-  - [Tsuru](https://tsuru.io/) - Open source, extensible and Docker-based Platform as a Service (PaaS).
+  - [Cloud Foundry Application Runtime](https://www.cloudfoundry.org/application-runtime/) - Cloud Foundry Application Runtime利用容器作为其DNA的一部分，并且在Docker推广容器之前就已经有了。 新的CF容器运行时为您提供更加细致的Kubernetes容器控制和管理。
+  - [Datawire](https://www.datawire.io/) - 早期阶段的初创公司致力于让开发人员轻松构建灵活的微服务。
+  - [Exoscale](https://www.exoscale.ch/) - Exoscale是SaaS公司，开发人员和系统管理员的云托管平台。
+  - [Galactic Fog](http://www.galacticfog.com/) - 构建面向未来的应用程序。 简化集成。 随处运行应用程序 立即适应变化。
+  - [Heroku](https://www.heroku.com/) - Salesforce是一家全球性云计算公司，开发CRM解决方案并按订购提供商业软件。
+  - [Atomist](Atomist) - Atomist使微服务应用程序通过基于云的服务轻松有趣地构建。
+  - [Clouber](https://www.clouber.io/) - Clouber是mCenter的一个提供商，mCenter是跨混合（公共和私有）云的应用程序现代化/迁移/管理平台。
+  - [Convox](https://convox.com/) - 在几分钟内启动私有云。
+  - [Empire](http://engineering.remind.com/) - 基于亚马逊EC2容器服务（ECS）构建的PaaS
+  - [Flynn](https://flynn.io/) - 下一代开源平台即服务（PaaS)
+  - [Hyper](https://www.hyper.sh/) - Hyper.sh是一个安全的容器云服务。
+  - [JHipster](https://www.jhipster.tech/) - 开源应用程序生成器，用于在几秒钟内创建Spring Boot + Angular项目！
+  - [Kontena](https://kontena.io/) - 开发人员友好的容器和微服务平台。 适用于任何云，易于安装，使用简单。
+  - [Lightbend](https://www.lightbend.com/) - Lightbend（以前称为Typesafe）致力于帮助开发人员在JVM上构建Reactive应用程序。
+  - [No Code](https://github.com/kelseyhightower/nocode) - 编写安全可靠的应用程序的最佳方式。 什么都不写; 无处不在。
+  - [PaaSTA](https://github.com/Yelp/paasta) - 作为服务的开放式分布式平台
+  - [Platform.sh](https://platform.sh/) - Platform.sh是一款自动化，持续部署的高可用性云托管解决方案
+  - [Portainer](https://portainer.io/) - Docker简单的管理用户界面
+  - [Scalingo](https://scalingo.com/) - Scalingo Docker平台服务将您的代码转换为Docker容器，并在我们的云上运行它，使其即时可用并可扩展。
+  - [Tsuru](https://tsuru.io/) - 开源，可扩展和基于Docker的平台即服务（PaaS）。
 
 ## 无服务器
 
@@ -532,48 +532,48 @@
 - 平台
 
   CNCF Member Products/Projects 
-  - [AWS Lambda](https://aws.amazon.com/lambda/) - Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
-  - [Azure Functions](https://azure.microsoft.com/en-us/services/functions//) - Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+  - [AWS Lambda](https://aws.amazon.com/lambda/) - 亚马逊网络服务以网络服务的形式向企业提供信息技术基础设施服务。
+  - [Azure Functions](https://azure.microsoft.com/en-us/services/functions//) - Microsoft是一家开发，制造，许可，支持和销售一系列软件产品和服务的软件公司。
   - [Google Cloud Functions](https://cloud.google.com/functions/) - https://cloud.google.com/functions/
-  - [IBM Cloud Functions](https://console.bluemix.net/openwhisk/) - IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
-  - [Twilio Functions](https://www.twilio.com/functions) - Twilio is a cloud communication company that enables users to use standard web languages to build voice, VoIP, and SMS apps via a web API.
+  - [IBM Cloud Functions](https://console.bluemix.net/openwhisk/) - IBM是一家IT技术和咨询公司，提供计算机硬件，软件，基础设施和托管服务。
+  - [Twilio Functions](https://www.twilio.com/functions) - Twilio是一家云通信公司，使用户能够使用标准网络语言通过Web API构建语音，VoIP和SMS应用程序。
   
   Non-CNCF Member Products/Projects
-  - [Algorithmia](https://algorithmia.com/serverless-ai-layer) - Algorithmia is an open marketplace for algorithms, enabling developers to create tomorrows smart applications today.
-  - [Apache OpenWhisk](https://openwhisk.apache.org/) - Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.
-  - [AppScale](https://www.appscale.com/) - AppScale is an easy-to-manage serverless platform for building and running scalable web and mobile applications on any infrastructure.
-  - [Clay](https://www.clay.run/) - Rapid Prototyping for Developers
-  - [Hyper Func](https://docs.hyper.sh/Feature/container/func.html) - Hyper.sh is a secure container cloud service.
-  - [Iron.io](https://www.iron.io/) - Iron.io is a scalable cloud-based message queue and processing platform for building distributed cloud applications.
-  - [Nano Lambda](http://nano-lambda.com/) - Explore deploying code in lambda.Run server-side code with an API call.
-  - [Overclock](https://www.ovrclk.com/) - Overclock Labs develops protocols, tools, and infrastructure to make foundational elements of the internet open, decentralized, and simple
-  - [OVH Functions](https://labs.ovh.com/ovh-functions) - OVH.com is an independent French company that offers web, dedicated, and cloud hosting solutions.
-  - [PubNub Functions](https://www.pubnub.com/products/functions/) - The PubNub Data Stream Network enables mobile and web developers to build and scale realtime apps.
-  - [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Our SaaS optimization platform delivers significant cost reduction for AWS and GCE, while maintaining high availability and performance.
-  - [StdLib](https://stdlib.com/) - StdLib Service Creation, Deployment, and Management Tools
-  - [Syncano](https://syncano.io/#/) - A serverless application platform to build powerful realtime apps more efficiently.
-  - [Weblab](https://weblab.io/) - Microservices at your fingertips
-  - [Webtask](https://webtask.io/) - Webtasks is a simple, lightweight, and secure way of running isolated backend code that removed or reduces the need for a backend.
-  - [Zeit Now](https://zeit.co/now) - Now – Realtime Global Deployments
+  - [Algorithmia](https://algorithmia.com/serverless-ai-layer) - Algorithmia是算法的开放市场，使开发人员能够创建今天的明天智能应用程序。
+  - [Apache OpenWhisk](https://openwhisk.apache.org/) - Apache OpenWhisk是一个无服务器事件编程服务和Apache孵化器项目。
+  - [AppScale](https://www.appscale.com/) - AppScale是一个易于管理的无服务器平台，可在任何基础架构上构建和运行可伸缩的Web和移动应用程序。
+  - [Clay](https://www.clay.run/) - 开发人员的快速原型开发
+  - [Hyper Func](https://docs.hyper.sh/Feature/container/func.html) - Hyper.sh是一个安全的容器云服务。
+  - [Iron.io](https://www.iron.io/) - Iron.io是一个可扩展的基于云的消息队列和处理平台，用于构建分布式云应用程序。
+  - [Nano Lambda](http://nano-lambda.com/) - 通过API调用，探索在lambda.Run服务器端代码中部署代码。
+  - [Overclock](https://www.ovrclk.com/) - Overclock Labs开发协议，工具和基础设施，使互联网的基础元素开放，分散和简单
+  - [OVH Functions](https://labs.ovh.com/ovh-functions) - OVH.com是一家独立的法国公司，提供网络，专用和云托管解决方案。
+  - [PubNub Functions](https://www.pubnub.com/products/functions/) - PubNub数据流网络使移动和Web开发人员能够构建和扩展实时应用程序。
+  - [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - 我们的SaaS优化平台可为AWS和GCE节省大量成本，同时保持高可用性和高性能。
+  - [StdLib](https://stdlib.com/) - StdLib服务创建，部署和管理工具
+  - [Syncano](https://syncano.io/#/) - 无服务器应用程序平台，可以更高效地构建强大的实时应用程序
+  - [Weblab](https://weblab.io/) - 微服务
+  - [Webtask](https://webtask.io/) - Webtasks是一种运行孤立后端代码的简单，轻量且安全的方式，可以移除或减少对后端的需求。
+  - [Zeit Now](https://zeit.co/now) - 现在 - 实时全球部署
             
 - 混合平台
-  - [Galactic Fog Gestalt](http://www.galacticfog.com/product/) - Build Future-Proof Applications. Simplify integration. Run applications anywhere. Adapt to changes instantly.
-  - [Nuclio](https://nuclio.io/) - High-Performance Serverless event and data processing platform
-  - [Binaris](https://www.binaris.com/) - A high-performance serverless platform for interactive and real-time applications.
-  - [Cloudboost](https://www.cloudboost.io/) - One Complete NoSQL Database Service for your app.
-  - [Fn](https://fnproject.io/) - The container native, cloud agnostic serverless platform.
-  - [fx](https://minghe.me/) - fx is a tool to help you do Function as a Service with painless on your own servers
-  - [LunchBadger](https://www.lunchbadger.com/) - LunchBadger is a multi-cloud platform for microservices and serverless.        
+  - [Galactic Fog Gestalt](http://www.galacticfog.com/product/) - 构建面向未来的应用程序。 简化集成。 随处运行应用程序 立即适应变化。
+  - [Nuclio](https://nuclio.io/) - 高性能无服务器事件和数据处理平台
+  - [Binaris](https://www.binaris.com/) - 面向交互式和实时应用程序的高性能无服务器平台。
+  - [Cloudboost](https://www.cloudboost.io/) - 一个完整的NoSQL数据库服务为您的应用程序。
+  - [Fn](https://fnproject.io/) - 容器本地，云无关无服务器平台。
+  - [fx](https://minghe.me/) - fx是一款帮助您在自己的服务器上轻松实现功能即服务的工具
+  - [LunchBadger](https://www.lunchbadger.com/) - LunchBadger是一个适用于微服务和无服务器的多云平台。      
   
 - Kubernetes原生平台
-  - [Fission](https://fission.io/) - Fast Serverless Functions for Kubernetes
-  - [Oracle Application Container Cloud](https://cloud.oracle.com/acc) - Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.
-  - [Riff](https://projectriff.io/) - riff is for functions
-  - [Funktion](https://funktion.fabric8.io/) - a CLI tool for working with funktion
-  - [Kubeless](http://kubeless.io/) - Kubernetes Native Serverless Framework
-  - [OpenFAAS](https://www.openfaas.com/) - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes
-  - [OpenLambda](https://open-lambda.org/)  -  An open source serverless computing platform
-  - [PubNub](https://www.pubnub.com/docs/blocks-catalog) - The PubNub Data Stream Network enables mobile and web developers to build and scale realtime apps.
+  - [Fission](https://fission.io/) - Kubernetes的快速无服务器功能
+  - [Oracle Application Container Cloud](https://cloud.oracle.com/acc) - Oracle是一家计算机技术公司，开发和销售计算机硬件系统和企业软件产品。
+  - [Riff](https://projectriff.io/)
+  - [Funktion](https://funktion.fabric8.io/) - 用于使用funktion的CLI工具
+  - [Kubeless](http://kubeless.io/) - Kubernetes远程无服务框架
+  - [OpenFAAS](https://www.openfaas.com/) - OpenFaaS - 为Docker和Kubernetes创建简单的无服务器功能
+  - [OpenLambda](https://open-lambda.org/)  -  一个开源无服务器计算平台
+  - [PubNub](https://www.pubnub.com/docs/blocks-catalog) - PubNub数据流网络使移动和Web开发人员能够构建和扩展实时应用程序。
   
 ## 可观测性和分析
 
